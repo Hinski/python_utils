@@ -1,0 +1,69 @@
+{
+  "Nazinga": {
+    "vwc_columns": ["VWC_1", "VWC_2", "VWC_3", "VW_1_Avg", "VW_2_Avg", "VW_3_Avg"],
+    "ts_columns": ["Ts_1", "TCAV_C_Avg(1)"],
+    "g_raw_columns": ["G_raw_East", "G_raw_West", "H_Flux_sc_8_East_Avg", "H_Flux_sc_8_West_Avg"],
+    "fm": 0.503,
+    "fo": 0.033,
+    "g_min": -400,
+    "g_max": 400,
+    "ts_min": null,
+    "ts_max": null
+  },
+  "Mole": {
+    "vwc_columns": ["VWC_1", "VW_1_Avg"],
+    "ts_columns": ["Ts_1", "TCAV_C_Avg(1)"],
+    "g_raw_columns": ["G_raw_Middle", "G_raw_West", "H_Flux_8_Middle_Avg", "H_Flux_8_West_Avg"],
+    "fm": 0.503,
+    "fo": 0.033,
+    "g_min": -200,
+    "g_max": 400,
+    "ts_min": null,
+    "ts_max": null
+  },
+  "Kayoro": {
+    "vwc_columns": ["VWC_1", "VWC_2", "VWC_3", "VW_1_Avg", "VW_2_Avg", "VW_3_Avg"],
+    "ts_columns": ["Ts_1", "TCAV_C_Avg(1) [DegC]"],
+    "g_raw_columns": ["G_raw_East", "G_raw_Middle", "G_raw_West", "H_Flux_sc_8_Ost_Avg [W/m^2]", "H_Flux_sc_8_Mitte_Avg [W/m^2]", "H_Flux_sc_8_West_Avg [W/m^2]"],
+    "fm": 0.5284,
+    "fo": 0.0062,
+    "g_min": -200,
+    "g_max": 400,
+    "ts_min": 0,
+    "ts_max": 60
+  },
+  "Sumbrungu": {
+    "vwc_columns": ["VWC_1", "VWC_2", "VWC_3", "VW_1_Avg", "VW_2_Avg", "VW_3_Avg"],
+    "ts_columns": ["Ts_1", "TCAV_C_Avg(1) [DegC]"],
+    "g_raw_columns": ["G_raw_Middle", "G_raw_East", "G_raw_West", "H_Flux_sc_8_Mitte_Avg [W/m^2]", "H_Flux_sc_8_Ost_Avg [W/m^2]", "H_Flux_sc_8_West_Avg [W/m^2]"],
+    "fm": 0.5171,
+    "fo": 0.016,
+    "g_min": -200,
+    "g_max": 400,
+    "ts_min": null,
+    "ts_max": null
+  },
+  "Gorigo": {
+    "vwc_columns": ["VWC_1", "VWC_3", "VW_1_Avg", "VW_3_Avg"],
+    "ts_columns": ["Ts_1"],
+    "g_raw_columns": ["G_raw_East"],
+    "fm": 0.5171,
+    "fo": 0.016,
+    "g_min": -200,
+    "g_max": 400,
+    "ts_min": null,
+    "ts_max": null
+  },
+  "Janga": {
+    "vwc_columns": ["VWC_1", "VW_1_Avg", "SWC_1"],
+    "vwc_scale": 100,
+    "ts_columns": ["Ts_1", "TCAV_C_Avg(1)", "Tsoil_f"],
+    "g_raw_columns": ["G_plate_1_1_1", "G_plate_2_1_1", "G_plate_3_1_1", "G_1_1_1", "G_2_1_1", "G_3_1_1"],
+    "fm": 0.5171,
+    "fo": 0.016,
+    "g_min": -400,
+    "g_max": 400,
+    "ts_min": null,
+    "ts_max": null
+  }
+}

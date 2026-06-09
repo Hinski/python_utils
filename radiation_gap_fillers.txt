@@ -1,0 +1,1576 @@
+# Dateien, die Lücken in Gorigo_radiation_merged.csv füllen können
+# Gesamt: 7 Dateien
+# Erstellt: 2026-01-27 21:17:55
+# Merged Datei Zeitraum: 2012-10-13 15:00:00 → 2025-08-15 14:05:00
+
+# Dateien für Lücken:
+## Lücke #2: 2012-10-31 06:30:00 → 2012-10-31 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation31102012_1113.dat
+  Überlappung: 2012-10-31 06:30:00 → 2012-10-31 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-10-27 11:00:00 → 2012-10-31 11:00:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation31102012_1113.dat
+  Überlappung: 2012-10-31 06:30:00 → 2012-10-31 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-10-27 11:00:00 → 2012-10-31 11:00:00
+
+## Lücke #3: 2012-11-05 06:30:00 → 2012-11-05 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation07112012_1544.dat
+  Überlappung: 2012-11-05 06:30:00 → 2012-11-05 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-10-31 11:30:00 → 2012-11-07 15:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation07112012_1544.dat
+  Überlappung: 2012-11-05 06:30:00 → 2012-11-05 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-10-31 11:30:00 → 2012-11-07 15:30:00
+
+## Lücke #4: 2012-11-07 07:00:00 → 2012-11-07 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation07112012_1544.dat
+  Überlappung: 2012-11-07 07:00:00 → 2012-11-07 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-10-31 11:30:00 → 2012-11-07 15:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation07112012_1544.dat
+  Überlappung: 2012-11-07 07:00:00 → 2012-11-07 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-10-31 11:30:00 → 2012-11-07 15:30:00
+
+## Lücke #5: 2012-11-17 07:00:00 → 2012-11-17 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation21112012_1202.dat
+  Überlappung: 2012-11-17 07:00:00 → 2012-11-17 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-07 16:00:00 → 2012-11-21 12:00:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation21112012_1202.dat
+  Überlappung: 2012-11-17 07:00:00 → 2012-11-17 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-07 16:00:00 → 2012-11-21 12:00:00
+
+## Lücke #6: 2012-11-18 07:00:00 → 2012-11-18 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation21112012_1202.dat
+  Überlappung: 2012-11-18 07:00:00 → 2012-11-18 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-07 16:00:00 → 2012-11-21 12:00:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation21112012_1202.dat
+  Überlappung: 2012-11-18 07:00:00 → 2012-11-18 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-07 16:00:00 → 2012-11-21 12:00:00
+
+## Lücke #7: 2012-11-19 07:00:00 → 2012-11-19 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation21112012_1202.dat
+  Überlappung: 2012-11-19 07:00:00 → 2012-11-19 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-07 16:00:00 → 2012-11-21 12:00:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation21112012_1202.dat
+  Überlappung: 2012-11-19 07:00:00 → 2012-11-19 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-07 16:00:00 → 2012-11-21 12:00:00
+
+## Lücke #8: 2012-11-20 05:30:00 → 2012-11-20 09:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation21112012_1202.dat
+  Überlappung: 2012-11-20 05:30:00 → 2012-11-20 09:30:00 (100.0%)
+  Datei-Zeitraum: 2012-11-07 16:00:00 → 2012-11-21 12:00:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation21112012_1202.dat
+  Überlappung: 2012-11-20 05:30:00 → 2012-11-20 09:30:00 (100.0%)
+  Datei-Zeitraum: 2012-11-07 16:00:00 → 2012-11-21 12:00:00
+
+## Lücke #9: 2012-11-21 06:30:00 → 2012-11-21 09:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation21112012_1202.dat
+  Überlappung: 2012-11-21 06:30:00 → 2012-11-21 09:30:00 (100.0%)
+  Datei-Zeitraum: 2012-11-07 16:00:00 → 2012-11-21 12:00:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation21112012_1202.dat
+  Überlappung: 2012-11-21 06:30:00 → 2012-11-21 09:30:00 (100.0%)
+  Datei-Zeitraum: 2012-11-07 16:00:00 → 2012-11-21 12:00:00
+
+## Lücke #10: 2012-11-22 06:30:00 → 2012-11-22 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation22112012_1214.dat
+  Überlappung: 2012-11-22 06:30:00 → 2012-11-22 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-21 13:00:00 → 2012-11-22 12:00:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation22112012_1214.dat
+  Überlappung: 2012-11-22 06:30:00 → 2012-11-22 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-21 13:00:00 → 2012-11-22 12:00:00
+
+## Lücke #11: 2012-11-23 06:30:00 → 2012-11-23 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation23112012_1213.dat
+  Überlappung: 2012-11-23 06:30:00 → 2012-11-23 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-22 12:30:00 → 2012-11-23 12:00:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation23112012_1213.dat
+  Überlappung: 2012-11-23 06:30:00 → 2012-11-23 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-22 12:30:00 → 2012-11-23 12:00:00
+
+## Lücke #12: 2012-11-24 06:30:00 → 2012-11-24 08:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation24112012_1213.dat
+  Überlappung: 2012-11-24 06:30:00 → 2012-11-24 08:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-23 12:30:00 → 2012-11-24 12:00:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation24112012_1213.dat
+  Überlappung: 2012-11-24 06:30:00 → 2012-11-24 08:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-23 12:30:00 → 2012-11-24 12:00:00
+
+## Lücke #13: 2012-11-25 05:30:00 → 2012-11-25 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation25112012_1213.dat
+  Überlappung: 2012-11-25 05:30:00 → 2012-11-25 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-11-24 12:30:00 → 2012-11-25 12:00:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation25112012_1213.dat
+  Überlappung: 2012-11-25 05:30:00 → 2012-11-25 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-11-24 12:30:00 → 2012-11-25 12:00:00
+
+## Lücke #14: 2012-11-26 07:00:00 → 2012-11-26 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation26112012_1213.dat
+  Überlappung: 2012-11-26 07:00:00 → 2012-11-26 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-25 12:30:00 → 2012-11-26 12:00:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation26112012_1213.dat
+  Überlappung: 2012-11-26 07:00:00 → 2012-11-26 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-25 12:30:00 → 2012-11-26 12:00:00
+
+## Lücke #15: 2012-11-27 07:00:00 → 2012-11-27 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation27112012_1213.dat
+  Überlappung: 2012-11-27 07:00:00 → 2012-11-27 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-26 12:30:00 → 2012-11-27 12:00:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation27112012_1213.dat
+  Überlappung: 2012-11-27 07:00:00 → 2012-11-27 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-26 12:30:00 → 2012-11-27 12:00:00
+
+## Lücke #16: 2012-11-28 06:00:00 → 2012-11-28 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation30112012_2355.dat
+  Überlappung: 2012-11-28 06:00:00 → 2012-11-28 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-27 12:30:00 → 2012-11-30 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation30112012_2355.dat
+  Überlappung: 2012-11-28 06:00:00 → 2012-11-28 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-27 12:30:00 → 2012-11-30 23:30:00
+
+## Lücke #17: 2012-11-29 07:00:00 → 2012-11-29 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation30112012_2355.dat
+  Überlappung: 2012-11-29 07:00:00 → 2012-11-29 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-27 12:30:00 → 2012-11-30 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation30112012_2355.dat
+  Überlappung: 2012-11-29 07:00:00 → 2012-11-29 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-27 12:30:00 → 2012-11-30 23:30:00
+
+## Lücke #18: 2012-11-30 06:30:00 → 2012-11-30 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation30112012_2355.dat
+  Überlappung: 2012-11-30 06:30:00 → 2012-11-30 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-27 12:30:00 → 2012-11-30 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation30112012_2355.dat
+  Überlappung: 2012-11-30 06:30:00 → 2012-11-30 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-11-27 12:30:00 → 2012-11-30 23:30:00
+
+## Lücke #19: 2012-12-01 06:00:00 → 2012-12-01 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation01122012_2356.dat
+  Überlappung: 2012-12-01 06:00:00 → 2012-12-01 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-01 00:00:00 → 2012-12-01 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation01122012_2356.dat
+  Überlappung: 2012-12-01 06:00:00 → 2012-12-01 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-01 00:00:00 → 2012-12-01 23:30:00
+
+## Lücke #20: 2012-12-02 03:00:00 → 2012-12-02 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation02122012_2355.dat
+  Überlappung: 2012-12-02 03:00:00 → 2012-12-02 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-02 00:00:00 → 2012-12-02 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation02122012_2355.dat
+  Überlappung: 2012-12-02 03:00:00 → 2012-12-02 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-02 00:00:00 → 2012-12-02 23:30:00
+
+## Lücke #21: 2012-12-03 05:00:00 → 2012-12-03 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation03122012_2355.dat
+  Überlappung: 2012-12-03 05:00:00 → 2012-12-03 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-03 00:00:00 → 2012-12-03 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation03122012_2355.dat
+  Überlappung: 2012-12-03 05:00:00 → 2012-12-03 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-03 00:00:00 → 2012-12-03 23:30:00
+
+## Lücke #22: 2012-12-04 06:30:00 → 2012-12-04 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation04122012_2355.dat
+  Überlappung: 2012-12-04 06:30:00 → 2012-12-04 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-04 00:00:00 → 2012-12-04 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation04122012_2355.dat
+  Überlappung: 2012-12-04 06:30:00 → 2012-12-04 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-04 00:00:00 → 2012-12-04 23:30:00
+
+## Lücke #23: 2012-12-05 07:00:00 → 2012-12-05 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation05122012_2355.dat
+  Überlappung: 2012-12-05 07:00:00 → 2012-12-05 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-05 00:00:00 → 2012-12-05 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation05122012_2355.dat
+  Überlappung: 2012-12-05 07:00:00 → 2012-12-05 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-05 00:00:00 → 2012-12-05 23:30:00
+
+## Lücke #24: 2012-12-06 06:30:00 → 2012-12-06 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation06122012_2356.dat
+  Überlappung: 2012-12-06 06:30:00 → 2012-12-06 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-06 00:00:00 → 2012-12-06 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation06122012_2356.dat
+  Überlappung: 2012-12-06 06:30:00 → 2012-12-06 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-06 00:00:00 → 2012-12-06 23:30:00
+
+## Lücke #25: 2012-12-07 05:30:00 → 2012-12-07 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation07122012_2355.dat
+  Überlappung: 2012-12-07 05:30:00 → 2012-12-07 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-07 00:00:00 → 2012-12-07 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation07122012_2355.dat
+  Überlappung: 2012-12-07 05:30:00 → 2012-12-07 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-07 00:00:00 → 2012-12-07 23:30:00
+
+## Lücke #26: 2012-12-08 06:00:00 → 2012-12-08 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation08122012_2355.dat
+  Überlappung: 2012-12-08 06:00:00 → 2012-12-08 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-08 00:00:00 → 2012-12-08 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation08122012_2355.dat
+  Überlappung: 2012-12-08 06:00:00 → 2012-12-08 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-08 00:00:00 → 2012-12-08 23:30:00
+
+## Lücke #27: 2012-12-09 06:00:00 → 2012-12-09 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation09122012_2355.dat
+  Überlappung: 2012-12-09 06:00:00 → 2012-12-09 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-09 00:00:00 → 2012-12-09 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation09122012_2355.dat
+  Überlappung: 2012-12-09 06:00:00 → 2012-12-09 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-09 00:00:00 → 2012-12-09 23:30:00
+
+## Lücke #28: 2012-12-10 05:00:00 → 2012-12-10 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation10122012_2355.dat
+  Überlappung: 2012-12-10 05:00:00 → 2012-12-10 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-10 00:00:00 → 2012-12-10 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation10122012_2355.dat
+  Überlappung: 2012-12-10 05:00:00 → 2012-12-10 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-10 00:00:00 → 2012-12-10 23:30:00
+
+## Lücke #29: 2012-12-11 06:00:00 → 2012-12-11 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation11122012_2355.dat
+  Überlappung: 2012-12-11 06:00:00 → 2012-12-11 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-11 00:00:00 → 2012-12-11 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation11122012_2355.dat
+  Überlappung: 2012-12-11 06:00:00 → 2012-12-11 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-11 00:00:00 → 2012-12-11 23:30:00
+
+## Lücke #30: 2012-12-12 05:30:00 → 2012-12-12 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation12122012_2355.dat
+  Überlappung: 2012-12-12 05:30:00 → 2012-12-12 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-12 00:00:00 → 2012-12-12 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation12122012_2355.dat
+  Überlappung: 2012-12-12 05:30:00 → 2012-12-12 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-12 00:00:00 → 2012-12-12 23:30:00
+
+## Lücke #31: 2012-12-13 06:00:00 → 2012-12-13 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation13122012_2355.dat
+  Überlappung: 2012-12-13 06:00:00 → 2012-12-13 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-13 00:00:00 → 2012-12-13 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation13122012_2355.dat
+  Überlappung: 2012-12-13 06:00:00 → 2012-12-13 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-13 00:00:00 → 2012-12-13 23:30:00
+
+## Lücke #32: 2012-12-14 06:30:00 → 2012-12-14 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation14122012_2355.dat
+  Überlappung: 2012-12-14 06:30:00 → 2012-12-14 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-14 00:00:00 → 2012-12-14 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation14122012_2355.dat
+  Überlappung: 2012-12-14 06:30:00 → 2012-12-14 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-14 00:00:00 → 2012-12-14 23:30:00
+
+## Lücke #33: 2012-12-15 04:30:00 → 2012-12-15 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation15122012_2355.dat
+  Überlappung: 2012-12-15 04:30:00 → 2012-12-15 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-15 00:00:00 → 2012-12-15 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation15122012_2355.dat
+  Überlappung: 2012-12-15 04:30:00 → 2012-12-15 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-15 00:00:00 → 2012-12-15 23:30:00
+
+## Lücke #34: 2012-12-16 06:00:00 → 2012-12-16 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation16122012_2355.dat
+  Überlappung: 2012-12-16 06:00:00 → 2012-12-16 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-16 00:00:00 → 2012-12-16 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation16122012_2355.dat
+  Überlappung: 2012-12-16 06:00:00 → 2012-12-16 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-16 00:00:00 → 2012-12-16 23:30:00
+
+## Lücke #35: 2012-12-17 06:00:00 → 2012-12-17 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation17122012_2355.dat
+  Überlappung: 2012-12-17 06:00:00 → 2012-12-17 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-17 00:00:00 → 2012-12-17 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation17122012_2355.dat
+  Überlappung: 2012-12-17 06:00:00 → 2012-12-17 09:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-17 00:00:00 → 2012-12-17 23:30:00
+
+## Lücke #36: 2012-12-18 06:00:00 → 2012-12-18 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation18122012_2356.dat
+  Überlappung: 2012-12-18 06:00:00 → 2012-12-18 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-18 00:00:00 → 2012-12-18 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation18122012_2356.dat
+  Überlappung: 2012-12-18 06:00:00 → 2012-12-18 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-18 00:00:00 → 2012-12-18 23:30:00
+
+## Lücke #37: 2012-12-21 05:30:00 → 2012-12-21 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation21122012_2355.dat
+  Überlappung: 2012-12-21 05:30:00 → 2012-12-21 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-21 00:00:00 → 2012-12-21 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation21122012_2355.dat
+  Überlappung: 2012-12-21 05:30:00 → 2012-12-21 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-21 00:00:00 → 2012-12-21 23:30:00
+
+## Lücke #38: 2012-12-22 07:00:00 → 2012-12-22 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation22122012_2355.dat
+  Überlappung: 2012-12-22 07:00:00 → 2012-12-22 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-22 00:00:00 → 2012-12-22 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation22122012_2355.dat
+  Überlappung: 2012-12-22 07:00:00 → 2012-12-22 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-22 00:00:00 → 2012-12-22 23:30:00
+
+## Lücke #39: 2012-12-23 06:00:00 → 2012-12-23 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation23122012_2355.dat
+  Überlappung: 2012-12-23 06:00:00 → 2012-12-23 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-23 00:00:00 → 2012-12-23 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation23122012_2355.dat
+  Überlappung: 2012-12-23 06:00:00 → 2012-12-23 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-23 00:00:00 → 2012-12-23 23:30:00
+
+## Lücke #40: 2012-12-24 07:00:00 → 2012-12-24 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation24122012_2355.dat
+  Überlappung: 2012-12-24 07:00:00 → 2012-12-24 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-24 00:00:00 → 2012-12-24 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation24122012_2355.dat
+  Überlappung: 2012-12-24 07:00:00 → 2012-12-24 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-24 00:00:00 → 2012-12-24 23:30:00
+
+## Lücke #41: 2012-12-25 06:30:00 → 2012-12-25 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation25122012_2355.dat
+  Überlappung: 2012-12-25 06:30:00 → 2012-12-25 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-25 00:00:00 → 2012-12-25 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation25122012_2355.dat
+  Überlappung: 2012-12-25 06:30:00 → 2012-12-25 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-25 00:00:00 → 2012-12-25 23:30:00
+
+## Lücke #42: 2012-12-26 07:00:00 → 2012-12-26 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation26122012_2355.dat
+  Überlappung: 2012-12-26 07:00:00 → 2012-12-26 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-26 00:00:00 → 2012-12-26 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation26122012_2355.dat
+  Überlappung: 2012-12-26 07:00:00 → 2012-12-26 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-26 00:00:00 → 2012-12-26 23:30:00
+
+## Lücke #43: 2012-12-27 06:30:00 → 2012-12-27 08:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation27122012_2355.dat
+  Überlappung: 2012-12-27 06:30:00 → 2012-12-27 08:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-27 00:00:00 → 2012-12-27 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation27122012_2355.dat
+  Überlappung: 2012-12-27 06:30:00 → 2012-12-27 08:00:00 (100.0%)
+  Datei-Zeitraum: 2012-12-27 00:00:00 → 2012-12-27 23:30:00
+
+## Lücke #44: 2012-12-29 06:00:00 → 2012-12-29 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation29122012_2355.dat
+  Überlappung: 2012-12-29 06:00:00 → 2012-12-29 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-29 00:00:00 → 2012-12-29 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation29122012_2355.dat
+  Überlappung: 2012-12-29 06:00:00 → 2012-12-29 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-29 00:00:00 → 2012-12-29 23:30:00
+
+## Lücke #45: 2012-12-31 06:30:00 → 2012-12-31 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation31122012_2355.dat
+  Überlappung: 2012-12-31 06:30:00 → 2012-12-31 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-31 00:00:00 → 2012-12-31 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2012/W2_Radiation31122012_2355.dat
+  Überlappung: 2012-12-31 06:30:00 → 2012-12-31 08:30:00 (100.0%)
+  Datei-Zeitraum: 2012-12-31 00:00:00 → 2012-12-31 23:30:00
+
+## Lücke #46: 2013-01-01 07:30:00 → 2013-01-01 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation01012013_2355.dat
+  Überlappung: 2013-01-01 07:30:00 → 2013-01-01 09:00:00 (100.0%)
+  Datei-Zeitraum: 2013-01-01 00:00:00 → 2013-01-01 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2013/W2_Radiation01012013_2355.dat
+  Überlappung: 2013-01-01 07:30:00 → 2013-01-01 09:00:00 (100.0%)
+  Datei-Zeitraum: 2013-01-01 00:00:00 → 2013-01-01 23:30:00
+
+## Lücke #47: 2013-01-02 06:30:00 → 2013-01-02 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation02012013_2355.dat
+  Überlappung: 2013-01-02 06:30:00 → 2013-01-02 08:30:00 (100.0%)
+  Datei-Zeitraum: 2013-01-02 00:00:00 → 2013-01-02 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2013/W2_Radiation02012013_2355.dat
+  Überlappung: 2013-01-02 06:30:00 → 2013-01-02 08:30:00 (100.0%)
+  Datei-Zeitraum: 2013-01-02 00:00:00 → 2013-01-02 23:30:00
+
+## Lücke #48: 2013-01-03 07:00:00 → 2013-01-03 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation03012013_2355.dat
+  Überlappung: 2013-01-03 07:00:00 → 2013-01-03 09:00:00 (100.0%)
+  Datei-Zeitraum: 2013-01-03 00:00:00 → 2013-01-03 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2013/W2_Radiation03012013_2355.dat
+  Überlappung: 2013-01-03 07:00:00 → 2013-01-03 09:00:00 (100.0%)
+  Datei-Zeitraum: 2013-01-03 00:00:00 → 2013-01-03 23:30:00
+
+## Lücke #49: 2013-01-04 06:00:00 → 2013-01-04 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation04012013_2355.dat
+  Überlappung: 2013-01-04 06:00:00 → 2013-01-04 09:00:00 (100.0%)
+  Datei-Zeitraum: 2013-01-04 00:00:00 → 2013-01-04 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2013/W2_Radiation04012013_2355.dat
+  Überlappung: 2013-01-04 06:00:00 → 2013-01-04 09:00:00 (100.0%)
+  Datei-Zeitraum: 2013-01-04 00:00:00 → 2013-01-04 23:30:00
+
+## Lücke #50: 2013-01-05 06:30:00 → 2013-01-05 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation05012013_2355.dat
+  Überlappung: 2013-01-05 06:30:00 → 2013-01-05 09:00:00 (100.0%)
+  Datei-Zeitraum: 2013-01-05 00:00:00 → 2013-01-05 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2013/W2_Radiation05012013_2355.dat
+  Überlappung: 2013-01-05 06:30:00 → 2013-01-05 09:00:00 (100.0%)
+  Datei-Zeitraum: 2013-01-05 00:00:00 → 2013-01-05 23:30:00
+
+## Lücke #51: 2013-01-06 07:00:00 → 2013-01-06 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation06012013_2355.dat
+  Überlappung: 2013-01-06 07:00:00 → 2013-01-06 09:00:00 (100.0%)
+  Datei-Zeitraum: 2013-01-06 00:00:00 → 2013-01-06 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2013/W2_Radiation06012013_2355.dat
+  Überlappung: 2013-01-06 07:00:00 → 2013-01-06 09:00:00 (100.0%)
+  Datei-Zeitraum: 2013-01-06 00:00:00 → 2013-01-06 23:30:00
+
+## Lücke #52: 2013-01-07 07:00:00 → 2013-01-07 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation07012013_2355.dat
+  Überlappung: 2013-01-07 07:00:00 → 2013-01-07 08:30:00 (100.0%)
+  Datei-Zeitraum: 2013-01-07 00:00:00 → 2013-01-07 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2013/W2_Radiation07012013_2355.dat
+  Überlappung: 2013-01-07 07:00:00 → 2013-01-07 08:30:00 (100.0%)
+  Datei-Zeitraum: 2013-01-07 00:00:00 → 2013-01-07 23:30:00
+
+## Lücke #53: 2013-01-08 06:30:00 → 2013-01-08 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation08012013_2355.dat
+  Überlappung: 2013-01-08 06:30:00 → 2013-01-08 08:30:00 (100.0%)
+  Datei-Zeitraum: 2013-01-08 00:00:00 → 2013-01-08 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2013/W2_Radiation08012013_2355.dat
+  Überlappung: 2013-01-08 06:30:00 → 2013-01-08 08:30:00 (100.0%)
+  Datei-Zeitraum: 2013-01-08 00:00:00 → 2013-01-08 23:30:00
+
+## Lücke #54: 2013-01-09 06:30:00 → 2013-01-09 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation09012013_2355.dat
+  Überlappung: 2013-01-09 06:30:00 → 2013-01-09 08:30:00 (100.0%)
+  Datei-Zeitraum: 2013-01-09 00:00:00 → 2013-01-09 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2013/W2_Radiation09012013_2355.dat
+  Überlappung: 2013-01-09 06:30:00 → 2013-01-09 08:30:00 (100.0%)
+  Datei-Zeitraum: 2013-01-09 00:00:00 → 2013-01-09 23:30:00
+
+## Lücke #55: 2013-01-10 07:00:00 → 2013-01-10 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation10012013_2355.dat
+  Überlappung: 2013-01-10 07:00:00 → 2013-01-10 08:30:00 (100.0%)
+  Datei-Zeitraum: 2013-01-10 00:00:00 → 2013-01-10 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2013/W2_Radiation10012013_2355.dat
+  Überlappung: 2013-01-10 07:00:00 → 2013-01-10 08:30:00 (100.0%)
+  Datei-Zeitraum: 2013-01-10 00:00:00 → 2013-01-10 23:30:00
+
+## Lücke #56: 2013-01-11 05:30:00 → 2013-01-11 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation11012013_2355.dat
+  Überlappung: 2013-01-11 05:30:00 → 2013-01-11 08:30:00 (100.0%)
+  Datei-Zeitraum: 2013-01-11 00:00:00 → 2013-01-11 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2013/W2_Radiation11012013_2355.dat
+  Überlappung: 2013-01-11 05:30:00 → 2013-01-11 08:30:00 (100.0%)
+  Datei-Zeitraum: 2013-01-11 00:00:00 → 2013-01-11 23:30:00
+
+## Lücke #57: 2013-01-12 06:30:00 → 2013-01-12 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation12012013_2355.dat
+  Überlappung: 2013-01-12 06:30:00 → 2013-01-12 08:30:00 (100.0%)
+  Datei-Zeitraum: 2013-01-12 00:00:00 → 2013-01-12 23:30:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2013/W2_Radiation12012013_2355.dat
+  Überlappung: 2013-01-12 06:30:00 → 2013-01-12 08:30:00 (100.0%)
+  Datei-Zeitraum: 2013-01-12 00:00:00 → 2013-01-12 23:30:00
+
+## Lücke #59: 2013-05-22 05:30:00 → 2013-05-29 17:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation30052013_2355.dat
+  Überlappung: 2013-05-22 05:30:00 → 2013-05-29 17:00:00 (100.0%)
+  Datei-Zeitraum: 2013-05-09 11:00:00 → 2013-05-30 23:50:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2013/W2_Radiation30052013_2355.dat
+  Überlappung: 2013-05-22 05:30:00 → 2013-05-29 17:00:00 (100.0%)
+  Datei-Zeitraum: 2013-05-09 11:00:00 → 2013-05-30 23:50:00
+
+## Lücke #61: 2016-09-24 00:55:00 → 2016-09-24 08:25:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation24092016_2355.dat
+  Überlappung: 2016-09-24 00:55:00 → 2016-09-24 08:25:00 (100.0%)
+  Datei-Zeitraum: 2016-09-23 23:55:00 → 2016-09-24 23:50:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2016/W2_Radiation24092016_2355.dat
+  Überlappung: 2016-09-24 00:55:00 → 2016-09-24 08:25:00 (100.0%)
+  Datei-Zeitraum: 2016-09-23 23:55:00 → 2016-09-24 23:50:00
+
+## Lücke #62: 2016-09-26 19:10:00 → 2016-09-27 08:35:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation27092016_2355.dat
+  Überlappung: 2016-09-26 19:10:00 → 2016-09-27 08:35:00 (100.0%)
+  Datei-Zeitraum: 2016-09-25 23:55:00 → 2016-09-27 23:50:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2016/W2_Radiation27092016_2355.dat
+  Überlappung: 2016-09-26 19:10:00 → 2016-09-27 08:35:00 (100.0%)
+  Datei-Zeitraum: 2016-09-25 23:55:00 → 2016-09-27 23:50:00
+
+## Lücke #63: 2016-09-28 03:40:00 → 2016-09-28 08:20:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation28092016_2355.dat
+  Überlappung: 2016-09-28 03:40:00 → 2016-09-28 08:20:00 (100.0%)
+  Datei-Zeitraum: 2016-09-27 23:55:00 → 2016-09-28 23:50:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2016/W2_Radiation28092016_2355.dat
+  Überlappung: 2016-09-28 03:40:00 → 2016-09-28 08:20:00 (100.0%)
+  Datei-Zeitraum: 2016-09-27 23:55:00 → 2016-09-28 23:50:00
+
+## Lücke #64: 2016-09-29 03:05:00 → 2016-09-29 08:35:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation29092016_2355.dat
+  Überlappung: 2016-09-29 03:05:00 → 2016-09-29 08:35:00 (100.0%)
+  Datei-Zeitraum: 2016-09-28 23:55:00 → 2016-09-29 23:50:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2016/W2_Radiation29092016_2355.dat
+  Überlappung: 2016-09-29 03:05:00 → 2016-09-29 08:35:00 (100.0%)
+  Datei-Zeitraum: 2016-09-28 23:55:00 → 2016-09-29 23:50:00
+
+## Lücke #65: 2016-09-30 03:20:00 → 2016-09-30 07:40:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation30092016_2355.dat
+  Überlappung: 2016-09-30 03:20:00 → 2016-09-30 07:40:00 (100.0%)
+  Datei-Zeitraum: 2016-09-29 23:55:00 → 2016-09-30 23:50:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2016/W2_Radiation30092016_2355.dat
+  Überlappung: 2016-09-30 03:20:00 → 2016-09-30 07:40:00 (100.0%)
+  Datei-Zeitraum: 2016-09-29 23:55:00 → 2016-09-30 23:50:00
+
+## Lücke #66: 2017-01-27 05:40:00 → 2017-01-27 09:35:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation27012017_2355.dat
+  Überlappung: 2017-01-27 05:40:00 → 2017-01-27 09:35:00 (100.0%)
+  Datei-Zeitraum: 2017-01-26 23:55:00 → 2017-01-27 23:50:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation27012017_2355.dat
+  Überlappung: 2017-01-27 05:40:00 → 2017-01-27 09:35:00 (100.0%)
+  Datei-Zeitraum: 2017-01-26 23:55:00 → 2017-01-27 23:50:00
+
+## Lücke #67: 2017-01-30 06:50:00 → 2017-01-30 09:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation30012017_2355.dat
+  Überlappung: 2017-01-30 06:50:00 → 2017-01-30 09:30:00 (100.0%)
+  Datei-Zeitraum: 2017-01-29 23:55:00 → 2017-01-30 23:50:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation30012017_2355.dat
+  Überlappung: 2017-01-30 06:50:00 → 2017-01-30 09:30:00 (100.0%)
+  Datei-Zeitraum: 2017-01-29 23:55:00 → 2017-01-30 23:50:00
+
+## Lücke #68: 2017-02-01 06:35:00 → 2017-02-01 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation01022017_2355.dat
+  Überlappung: 2017-02-01 06:35:00 → 2017-02-01 09:00:00 (100.0%)
+  Datei-Zeitraum: 2017-01-31 23:55:00 → 2017-02-01 23:50:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation01022017_2355.dat
+  Überlappung: 2017-02-01 06:35:00 → 2017-02-01 09:00:00 (100.0%)
+  Datei-Zeitraum: 2017-01-31 23:55:00 → 2017-02-01 23:50:00
+
+## Lücke #69: 2017-02-02 06:05:00 → 2017-02-02 09:15:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation02022017_2355.dat
+  Überlappung: 2017-02-02 06:05:00 → 2017-02-02 09:15:00 (100.0%)
+  Datei-Zeitraum: 2017-02-01 23:55:00 → 2017-02-02 23:50:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation02022017_2355.dat
+  Überlappung: 2017-02-02 06:05:00 → 2017-02-02 09:15:00 (100.0%)
+  Datei-Zeitraum: 2017-02-01 23:55:00 → 2017-02-02 23:50:00
+
+## Lücke #70: 2017-02-03 03:25:00 → 2017-02-03 09:10:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation03022017_2355.dat
+  Überlappung: 2017-02-03 03:25:00 → 2017-02-03 09:10:00 (100.0%)
+  Datei-Zeitraum: 2017-02-02 23:55:00 → 2017-02-03 23:50:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation03022017_2355.dat
+  Überlappung: 2017-02-03 03:25:00 → 2017-02-03 09:10:00 (100.0%)
+  Datei-Zeitraum: 2017-02-02 23:55:00 → 2017-02-03 23:50:00
+
+## Lücke #71: 2017-02-05 06:05:00 → 2017-02-05 09:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation05022017_2355.dat
+  Überlappung: 2017-02-05 06:05:00 → 2017-02-05 09:00:00 (100.0%)
+  Datei-Zeitraum: 2017-02-04 23:55:00 → 2017-02-05 23:50:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation05022017_2355.dat
+  Überlappung: 2017-02-05 06:05:00 → 2017-02-05 09:00:00 (100.0%)
+  Datei-Zeitraum: 2017-02-04 23:55:00 → 2017-02-05 23:50:00
+
+## Lücke #72: 2017-02-08 06:40:00 → 2017-02-08 09:15:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation08022017_2355.dat
+  Überlappung: 2017-02-08 06:40:00 → 2017-02-08 09:15:00 (100.0%)
+  Datei-Zeitraum: 2017-02-07 23:55:00 → 2017-02-08 23:50:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation08022017_2355.dat
+  Überlappung: 2017-02-08 06:40:00 → 2017-02-08 09:15:00 (100.0%)
+  Datei-Zeitraum: 2017-02-07 23:55:00 → 2017-02-08 23:50:00
+
+## Lücke #73: 2017-02-11 06:40:00 → 2017-02-11 09:10:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation11022017_2355.dat
+  Überlappung: 2017-02-11 06:40:00 → 2017-02-11 09:10:00 (100.0%)
+  Datei-Zeitraum: 2017-02-10 23:55:00 → 2017-02-11 23:50:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation11022017_2355.dat
+  Überlappung: 2017-02-11 06:40:00 → 2017-02-11 09:10:00 (100.0%)
+  Datei-Zeitraum: 2017-02-10 23:55:00 → 2017-02-11 23:50:00
+
+## Lücke #74: 2017-02-13 04:30:00 → 2017-02-13 09:10:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation13022017_2355.dat
+  Überlappung: 2017-02-13 04:30:00 → 2017-02-13 09:10:00 (100.0%)
+  Datei-Zeitraum: 2017-02-12 23:55:00 → 2017-02-13 23:50:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation13022017_2355.dat
+  Überlappung: 2017-02-13 04:30:00 → 2017-02-13 09:10:00 (100.0%)
+  Datei-Zeitraum: 2017-02-12 23:55:00 → 2017-02-13 23:50:00
+
+## Lücke #75: 2017-06-18 05:05:00 → 2017-06-18 07:35:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation18062017_2355.dat
+  Überlappung: 2017-06-18 05:05:00 → 2017-06-18 07:35:00 (100.0%)
+  Datei-Zeitraum: 2017-06-18 00:00:00 → 2017-06-18 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation18062017_2355.dat
+  Überlappung: 2017-06-18 05:05:00 → 2017-06-18 07:35:00 (100.0%)
+  Datei-Zeitraum: 2017-06-18 00:00:00 → 2017-06-18 23:55:00
+
+## Lücke #76: 2017-06-21 04:55:00 → 2017-06-21 07:25:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation21062017_2355.dat
+  Überlappung: 2017-06-21 04:55:00 → 2017-06-21 07:25:00 (100.0%)
+  Datei-Zeitraum: 2017-06-21 00:00:00 → 2017-06-21 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation21062017_2355.dat
+  Überlappung: 2017-06-21 04:55:00 → 2017-06-21 07:25:00 (100.0%)
+  Datei-Zeitraum: 2017-06-21 00:00:00 → 2017-06-21 23:55:00
+
+## Lücke #77: 2017-06-22 04:25:00 → 2017-06-22 08:15:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation22062017_2355.dat
+  Überlappung: 2017-06-22 04:25:00 → 2017-06-22 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-06-22 00:00:00 → 2017-06-22 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation22062017_2355.dat
+  Überlappung: 2017-06-22 04:25:00 → 2017-06-22 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-06-22 00:00:00 → 2017-06-22 23:55:00
+
+## Lücke #78: 2017-06-23 05:05:00 → 2017-06-23 07:40:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation23062017_2355.dat
+  Überlappung: 2017-06-23 05:05:00 → 2017-06-23 07:40:00 (100.0%)
+  Datei-Zeitraum: 2017-06-23 00:00:00 → 2017-06-23 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation23062017_2355.dat
+  Überlappung: 2017-06-23 05:05:00 → 2017-06-23 07:40:00 (100.0%)
+  Datei-Zeitraum: 2017-06-23 00:00:00 → 2017-06-23 23:55:00
+
+## Lücke #79: 2017-06-26 04:20:00 → 2017-06-26 10:20:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation26062017_2355.dat
+  Überlappung: 2017-06-26 04:20:00 → 2017-06-26 10:20:00 (100.0%)
+  Datei-Zeitraum: 2017-06-26 00:00:00 → 2017-06-26 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation26062017_2355.dat
+  Überlappung: 2017-06-26 04:20:00 → 2017-06-26 10:20:00 (100.0%)
+  Datei-Zeitraum: 2017-06-26 00:00:00 → 2017-06-26 23:55:00
+
+## Lücke #80: 2017-06-27 00:05:00 → 2017-06-27 07:45:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation27062017_2355.dat
+  Überlappung: 2017-06-27 00:05:00 → 2017-06-27 07:45:00 (100.0%)
+  Datei-Zeitraum: 2017-06-27 00:00:00 → 2017-06-27 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation27062017_2355.dat
+  Überlappung: 2017-06-27 00:05:00 → 2017-06-27 07:45:00 (100.0%)
+  Datei-Zeitraum: 2017-06-27 00:00:00 → 2017-06-27 23:55:00
+
+## Lücke #81: 2017-06-28 17:55:00 → 2017-06-29 07:50:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation29062017_2355.dat
+  Überlappung: 2017-06-28 17:55:00 → 2017-06-29 07:50:00 (100.0%)
+  Datei-Zeitraum: 2017-06-28 00:00:00 → 2017-06-29 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation29062017_2355.dat
+  Überlappung: 2017-06-28 17:55:00 → 2017-06-29 07:50:00 (100.0%)
+  Datei-Zeitraum: 2017-06-28 00:00:00 → 2017-06-29 23:55:00
+
+## Lücke #82: 2017-07-04 05:55:00 → 2017-07-04 08:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation04072017_2355.dat
+  Überlappung: 2017-07-04 05:55:00 → 2017-07-04 08:00:00 (100.0%)
+  Datei-Zeitraum: 2017-07-04 00:00:00 → 2017-07-04 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation04072017_2355.dat
+  Überlappung: 2017-07-04 05:55:00 → 2017-07-04 08:00:00 (100.0%)
+  Datei-Zeitraum: 2017-07-04 00:00:00 → 2017-07-04 23:55:00
+
+## Lücke #83: 2017-07-05 04:00:00 → 2017-07-05 08:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation05072017_2355.dat
+  Überlappung: 2017-07-05 04:00:00 → 2017-07-05 08:00:00 (100.0%)
+  Datei-Zeitraum: 2017-07-05 00:00:00 → 2017-07-05 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation05072017_2355.dat
+  Überlappung: 2017-07-05 04:00:00 → 2017-07-05 08:00:00 (100.0%)
+  Datei-Zeitraum: 2017-07-05 00:00:00 → 2017-07-05 23:55:00
+
+## Lücke #84: 2017-07-06 09:45:00 → 2017-07-06 11:45:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation07072017_2355.dat
+  Überlappung: 2017-07-06 09:45:00 → 2017-07-06 11:45:00 (100.0%)
+  Datei-Zeitraum: 2017-07-06 00:00:00 → 2017-07-07 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation07072017_2355.dat
+  Überlappung: 2017-07-06 09:45:00 → 2017-07-06 11:45:00 (100.0%)
+  Datei-Zeitraum: 2017-07-06 00:00:00 → 2017-07-07 23:55:00
+
+## Lücke #85: 2017-07-06 19:40:00 → 2017-07-07 07:50:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation07072017_2355.dat
+  Überlappung: 2017-07-06 19:40:00 → 2017-07-07 07:50:00 (100.0%)
+  Datei-Zeitraum: 2017-07-06 00:00:00 → 2017-07-07 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation07072017_2355.dat
+  Überlappung: 2017-07-06 19:40:00 → 2017-07-07 07:50:00 (100.0%)
+  Datei-Zeitraum: 2017-07-06 00:00:00 → 2017-07-07 23:55:00
+
+## Lücke #86: 2017-07-09 06:50:00 → 2017-07-09 08:05:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation09072017_2355.dat
+  Überlappung: 2017-07-09 06:50:00 → 2017-07-09 08:05:00 (100.0%)
+  Datei-Zeitraum: 2017-07-09 00:00:00 → 2017-07-09 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation09072017_2355.dat
+  Überlappung: 2017-07-09 06:50:00 → 2017-07-09 08:05:00 (100.0%)
+  Datei-Zeitraum: 2017-07-09 00:00:00 → 2017-07-09 23:55:00
+
+## Lücke #87: 2017-07-10 08:40:00 → 2017-07-10 09:50:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation10072017_2355.dat
+  Überlappung: 2017-07-10 08:40:00 → 2017-07-10 09:50:00 (100.0%)
+  Datei-Zeitraum: 2017-07-10 00:00:00 → 2017-07-10 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation10072017_2355.dat
+  Überlappung: 2017-07-10 08:40:00 → 2017-07-10 09:50:00 (100.0%)
+  Datei-Zeitraum: 2017-07-10 00:00:00 → 2017-07-10 23:55:00
+
+## Lücke #88: 2017-07-11 03:45:00 → 2017-07-11 08:10:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation11072017_2355.dat
+  Überlappung: 2017-07-11 03:45:00 → 2017-07-11 08:10:00 (100.0%)
+  Datei-Zeitraum: 2017-07-11 00:00:00 → 2017-07-11 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation11072017_2355.dat
+  Überlappung: 2017-07-11 03:45:00 → 2017-07-11 08:10:00 (100.0%)
+  Datei-Zeitraum: 2017-07-11 00:00:00 → 2017-07-11 23:55:00
+
+## Lücke #89: 2017-07-12 06:05:00 → 2017-07-12 08:50:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation12072017_2355.dat
+  Überlappung: 2017-07-12 06:05:00 → 2017-07-12 08:50:00 (100.0%)
+  Datei-Zeitraum: 2017-07-12 00:00:00 → 2017-07-12 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation12072017_2355.dat
+  Überlappung: 2017-07-12 06:05:00 → 2017-07-12 08:50:00 (100.0%)
+  Datei-Zeitraum: 2017-07-12 00:00:00 → 2017-07-12 23:55:00
+
+## Lücke #90: 2017-07-13 03:25:00 → 2017-07-13 08:40:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation13072017_2355.dat
+  Überlappung: 2017-07-13 03:25:00 → 2017-07-13 08:40:00 (100.0%)
+  Datei-Zeitraum: 2017-07-13 00:00:00 → 2017-07-13 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation13072017_2355.dat
+  Überlappung: 2017-07-13 03:25:00 → 2017-07-13 08:40:00 (100.0%)
+  Datei-Zeitraum: 2017-07-13 00:00:00 → 2017-07-13 23:55:00
+
+## Lücke #91: 2017-07-14 03:15:00 → 2017-07-14 08:40:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation14072017_2355.dat
+  Überlappung: 2017-07-14 03:15:00 → 2017-07-14 08:40:00 (100.0%)
+  Datei-Zeitraum: 2017-07-14 00:00:00 → 2017-07-14 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation14072017_2355.dat
+  Überlappung: 2017-07-14 03:15:00 → 2017-07-14 08:40:00 (100.0%)
+  Datei-Zeitraum: 2017-07-14 00:00:00 → 2017-07-14 23:55:00
+
+## Lücke #92: 2017-07-15 05:50:00 → 2017-07-15 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation15072017_2355.dat
+  Überlappung: 2017-07-15 05:50:00 → 2017-07-15 08:30:00 (100.0%)
+  Datei-Zeitraum: 2017-07-15 00:00:00 → 2017-07-15 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation15072017_2355.dat
+  Überlappung: 2017-07-15 05:50:00 → 2017-07-15 08:30:00 (100.0%)
+  Datei-Zeitraum: 2017-07-15 00:00:00 → 2017-07-15 23:55:00
+
+## Lücke #93: 2017-07-16 05:30:00 → 2017-07-16 08:15:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation16072017_2355.dat
+  Überlappung: 2017-07-16 05:30:00 → 2017-07-16 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-07-16 00:00:00 → 2017-07-16 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation16072017_2355.dat
+  Überlappung: 2017-07-16 05:30:00 → 2017-07-16 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-07-16 00:00:00 → 2017-07-16 23:55:00
+
+## Lücke #94: 2017-07-17 05:35:00 → 2017-07-17 08:25:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation17072017_2355.dat
+  Überlappung: 2017-07-17 05:35:00 → 2017-07-17 08:25:00 (100.0%)
+  Datei-Zeitraum: 2017-07-17 00:00:00 → 2017-07-17 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation17072017_2355.dat
+  Überlappung: 2017-07-17 05:35:00 → 2017-07-17 08:25:00 (100.0%)
+  Datei-Zeitraum: 2017-07-17 00:00:00 → 2017-07-17 23:55:00
+
+## Lücke #95: 2017-07-18 04:20:00 → 2017-07-18 08:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation18072017_2355.dat
+  Überlappung: 2017-07-18 04:20:00 → 2017-07-18 08:00:00 (100.0%)
+  Datei-Zeitraum: 2017-07-18 00:00:00 → 2017-07-18 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation18072017_2355.dat
+  Überlappung: 2017-07-18 04:20:00 → 2017-07-18 08:00:00 (100.0%)
+  Datei-Zeitraum: 2017-07-18 00:00:00 → 2017-07-18 23:55:00
+
+## Lücke #96: 2017-07-19 06:20:00 → 2017-07-19 08:50:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation19072017_2355.dat
+  Überlappung: 2017-07-19 06:20:00 → 2017-07-19 08:50:00 (100.0%)
+  Datei-Zeitraum: 2017-07-19 00:00:00 → 2017-07-19 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation19072017_2355.dat
+  Überlappung: 2017-07-19 06:20:00 → 2017-07-19 08:50:00 (100.0%)
+  Datei-Zeitraum: 2017-07-19 00:00:00 → 2017-07-19 23:55:00
+
+## Lücke #97: 2017-07-20 03:25:00 → 2017-07-20 08:15:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation20072017_2355.dat
+  Überlappung: 2017-07-20 03:25:00 → 2017-07-20 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-07-20 00:00:00 → 2017-07-20 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation20072017_2355.dat
+  Überlappung: 2017-07-20 03:25:00 → 2017-07-20 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-07-20 00:00:00 → 2017-07-20 23:55:00
+
+## Lücke #98: 2017-07-21 00:50:00 → 2017-07-21 08:35:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation21072017_2355.dat
+  Überlappung: 2017-07-21 00:50:00 → 2017-07-21 08:35:00 (100.0%)
+  Datei-Zeitraum: 2017-07-21 00:00:00 → 2017-07-22 00:00:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation21072017_2355.dat
+  Überlappung: 2017-07-21 00:50:00 → 2017-07-21 08:35:00 (100.0%)
+  Datei-Zeitraum: 2017-07-21 00:00:00 → 2017-07-22 00:00:00
+
+## Lücke #99: 2017-07-22 02:40:00 → 2017-07-22 08:05:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation23072017_2355.dat
+  Überlappung: 2017-07-22 02:40:00 → 2017-07-22 08:05:00 (100.0%)
+  Datei-Zeitraum: 2017-07-22 00:05:00 → 2017-07-23 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation23072017_2355.dat
+  Überlappung: 2017-07-22 02:40:00 → 2017-07-22 08:05:00 (100.0%)
+  Datei-Zeitraum: 2017-07-22 00:05:00 → 2017-07-23 23:55:00
+
+## Lücke #100: 2017-07-22 18:25:00 → 2017-07-23 08:25:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation23072017_2355.dat
+  Überlappung: 2017-07-22 18:25:00 → 2017-07-23 08:25:00 (100.0%)
+  Datei-Zeitraum: 2017-07-22 00:05:00 → 2017-07-23 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation23072017_2355.dat
+  Überlappung: 2017-07-22 18:25:00 → 2017-07-23 08:25:00 (100.0%)
+  Datei-Zeitraum: 2017-07-22 00:05:00 → 2017-07-23 23:55:00
+
+## Lücke #101: 2017-07-24 04:50:00 → 2017-07-24 08:10:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation24072017_2355.dat
+  Überlappung: 2017-07-24 04:50:00 → 2017-07-24 08:10:00 (100.0%)
+  Datei-Zeitraum: 2017-07-24 00:00:00 → 2017-07-24 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation24072017_2355.dat
+  Überlappung: 2017-07-24 04:50:00 → 2017-07-24 08:10:00 (100.0%)
+  Datei-Zeitraum: 2017-07-24 00:00:00 → 2017-07-24 23:55:00
+
+## Lücke #102: 2017-07-25 03:10:00 → 2017-07-25 08:05:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation25072017_2355.dat
+  Überlappung: 2017-07-25 03:10:00 → 2017-07-25 08:05:00 (100.0%)
+  Datei-Zeitraum: 2017-07-25 00:00:00 → 2017-07-25 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation25072017_2355.dat
+  Überlappung: 2017-07-25 03:10:00 → 2017-07-25 08:05:00 (100.0%)
+  Datei-Zeitraum: 2017-07-25 00:00:00 → 2017-07-25 23:55:00
+
+## Lücke #103: 2017-07-26 03:05:00 → 2017-07-26 08:25:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation26072017_2355.dat
+  Überlappung: 2017-07-26 03:05:00 → 2017-07-26 08:25:00 (100.0%)
+  Datei-Zeitraum: 2017-07-26 00:00:00 → 2017-07-26 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation26072017_2355.dat
+  Überlappung: 2017-07-26 03:05:00 → 2017-07-26 08:25:00 (100.0%)
+  Datei-Zeitraum: 2017-07-26 00:00:00 → 2017-07-26 23:55:00
+
+## Lücke #104: 2017-07-27 04:30:00 → 2017-07-27 08:35:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation27072017_2355.dat
+  Überlappung: 2017-07-27 04:30:00 → 2017-07-27 08:35:00 (100.0%)
+  Datei-Zeitraum: 2017-07-27 00:00:00 → 2017-07-27 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation27072017_2355.dat
+  Überlappung: 2017-07-27 04:30:00 → 2017-07-27 08:35:00 (100.0%)
+  Datei-Zeitraum: 2017-07-27 00:00:00 → 2017-07-27 23:55:00
+
+## Lücke #105: 2017-07-28 04:15:00 → 2017-07-28 08:15:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation28072017_2355.dat
+  Überlappung: 2017-07-28 04:15:00 → 2017-07-28 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-07-28 00:00:00 → 2017-07-28 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation28072017_2355.dat
+  Überlappung: 2017-07-28 04:15:00 → 2017-07-28 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-07-28 00:00:00 → 2017-07-28 23:55:00
+
+## Lücke #106: 2017-07-29 03:50:00 → 2017-07-29 08:05:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation29072017_2355.dat
+  Überlappung: 2017-07-29 03:50:00 → 2017-07-29 08:05:00 (100.0%)
+  Datei-Zeitraum: 2017-07-29 00:00:00 → 2017-07-29 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation29072017_2355.dat
+  Überlappung: 2017-07-29 03:50:00 → 2017-07-29 08:05:00 (100.0%)
+  Datei-Zeitraum: 2017-07-29 00:00:00 → 2017-07-29 23:55:00
+
+## Lücke #107: 2017-07-30 04:10:00 → 2017-07-30 08:15:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation31072017_2355.dat
+  Überlappung: 2017-07-30 04:10:00 → 2017-07-30 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-07-30 00:00:00 → 2017-07-31 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation31072017_2355.dat
+  Überlappung: 2017-07-30 04:10:00 → 2017-07-30 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-07-30 00:00:00 → 2017-07-31 23:55:00
+
+## Lücke #108: 2017-07-30 20:00:00 → 2017-07-31 08:10:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation31072017_2355.dat
+  Überlappung: 2017-07-30 20:00:00 → 2017-07-31 08:10:00 (100.0%)
+  Datei-Zeitraum: 2017-07-30 00:00:00 → 2017-07-31 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation31072017_2355.dat
+  Überlappung: 2017-07-30 20:00:00 → 2017-07-31 08:10:00 (100.0%)
+  Datei-Zeitraum: 2017-07-30 00:00:00 → 2017-07-31 23:55:00
+
+## Lücke #109: 2017-08-01 02:30:00 → 2017-08-01 08:10:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation01082017_2355.dat
+  Überlappung: 2017-08-01 02:30:00 → 2017-08-01 08:10:00 (100.0%)
+  Datei-Zeitraum: 2017-08-01 00:00:00 → 2017-08-01 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation01082017_2355.dat
+  Überlappung: 2017-08-01 02:30:00 → 2017-08-01 08:10:00 (100.0%)
+  Datei-Zeitraum: 2017-08-01 00:00:00 → 2017-08-01 23:55:00
+
+## Lücke #110: 2017-08-02 02:40:00 → 2017-08-02 07:50:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation02082017_2355.dat
+  Überlappung: 2017-08-02 02:40:00 → 2017-08-02 07:50:00 (100.0%)
+  Datei-Zeitraum: 2017-08-02 00:00:00 → 2017-08-02 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation02082017_2355.dat
+  Überlappung: 2017-08-02 02:40:00 → 2017-08-02 07:50:00 (100.0%)
+  Datei-Zeitraum: 2017-08-02 00:00:00 → 2017-08-02 23:55:00
+
+## Lücke #111: 2017-08-03 02:20:00 → 2017-08-03 08:05:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation03082017_2355.dat
+  Überlappung: 2017-08-03 02:20:00 → 2017-08-03 08:05:00 (100.0%)
+  Datei-Zeitraum: 2017-08-03 00:00:00 → 2017-08-03 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation03082017_2355.dat
+  Überlappung: 2017-08-03 02:20:00 → 2017-08-03 08:05:00 (100.0%)
+  Datei-Zeitraum: 2017-08-03 00:00:00 → 2017-08-03 23:55:00
+
+## Lücke #112: 2017-08-04 05:10:00 → 2017-08-04 08:10:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation04082017_2355.dat
+  Überlappung: 2017-08-04 05:10:00 → 2017-08-04 08:10:00 (100.0%)
+  Datei-Zeitraum: 2017-08-04 00:00:00 → 2017-08-04 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation04082017_2355.dat
+  Überlappung: 2017-08-04 05:10:00 → 2017-08-04 08:10:00 (100.0%)
+  Datei-Zeitraum: 2017-08-04 00:00:00 → 2017-08-04 23:55:00
+
+## Lücke #113: 2017-08-05 03:30:00 → 2017-08-05 08:20:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation05082017_2355.dat
+  Überlappung: 2017-08-05 03:30:00 → 2017-08-05 08:20:00 (100.0%)
+  Datei-Zeitraum: 2017-08-05 00:00:00 → 2017-08-05 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation05082017_2355.dat
+  Überlappung: 2017-08-05 03:30:00 → 2017-08-05 08:20:00 (100.0%)
+  Datei-Zeitraum: 2017-08-05 00:00:00 → 2017-08-05 23:55:00
+
+## Lücke #114: 2017-08-06 01:05:00 → 2017-08-06 07:55:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation06082017_2355.dat
+  Überlappung: 2017-08-06 01:05:00 → 2017-08-06 07:55:00 (100.0%)
+  Datei-Zeitraum: 2017-08-06 00:00:00 → 2017-08-06 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation06082017_2355.dat
+  Überlappung: 2017-08-06 01:05:00 → 2017-08-06 07:55:00 (100.0%)
+  Datei-Zeitraum: 2017-08-06 00:00:00 → 2017-08-06 23:55:00
+
+## Lücke #115: 2017-08-07 02:05:00 → 2017-08-07 07:45:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation07082017_2355.dat
+  Überlappung: 2017-08-07 02:05:00 → 2017-08-07 07:45:00 (100.0%)
+  Datei-Zeitraum: 2017-08-07 00:00:00 → 2017-08-07 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation07082017_2355.dat
+  Überlappung: 2017-08-07 02:05:00 → 2017-08-07 07:45:00 (100.0%)
+  Datei-Zeitraum: 2017-08-07 00:00:00 → 2017-08-07 23:55:00
+
+## Lücke #116: 2017-08-08 04:05:00 → 2017-08-08 10:05:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation08082017_2355.dat
+  Überlappung: 2017-08-08 04:05:00 → 2017-08-08 10:05:00 (100.0%)
+  Datei-Zeitraum: 2017-08-08 00:00:00 → 2017-08-08 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation08082017_2355.dat
+  Überlappung: 2017-08-08 04:05:00 → 2017-08-08 10:05:00 (100.0%)
+  Datei-Zeitraum: 2017-08-08 00:00:00 → 2017-08-08 23:55:00
+
+## Lücke #117: 2017-08-09 01:40:00 → 2017-08-09 08:05:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation09082017_2355.dat
+  Überlappung: 2017-08-09 01:40:00 → 2017-08-09 08:05:00 (100.0%)
+  Datei-Zeitraum: 2017-08-09 00:00:00 → 2017-08-09 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation09082017_2355.dat
+  Überlappung: 2017-08-09 01:40:00 → 2017-08-09 08:05:00 (100.0%)
+  Datei-Zeitraum: 2017-08-09 00:00:00 → 2017-08-09 23:55:00
+
+## Lücke #118: 2017-08-10 06:05:00 → 2017-08-10 08:10:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation10082017_2355.dat
+  Überlappung: 2017-08-10 06:05:00 → 2017-08-10 08:10:00 (100.0%)
+  Datei-Zeitraum: 2017-08-10 00:00:00 → 2017-08-10 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation10082017_2355.dat
+  Überlappung: 2017-08-10 06:05:00 → 2017-08-10 08:10:00 (100.0%)
+  Datei-Zeitraum: 2017-08-10 00:00:00 → 2017-08-10 23:55:00
+
+## Lücke #119: 2017-08-11 04:20:00 → 2017-08-11 08:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation11082017_2355.dat
+  Überlappung: 2017-08-11 04:20:00 → 2017-08-11 08:30:00 (100.0%)
+  Datei-Zeitraum: 2017-08-11 00:00:00 → 2017-08-11 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation11082017_2355.dat
+  Überlappung: 2017-08-11 04:20:00 → 2017-08-11 08:30:00 (100.0%)
+  Datei-Zeitraum: 2017-08-11 00:00:00 → 2017-08-11 23:55:00
+
+## Lücke #121: 2017-08-13 00:35:00 → 2017-08-13 07:55:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation13082017_2355.dat
+  Überlappung: 2017-08-13 00:35:00 → 2017-08-13 07:55:00 (100.0%)
+  Datei-Zeitraum: 2017-08-13 00:00:00 → 2017-08-13 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation13082017_2355.dat
+  Überlappung: 2017-08-13 00:35:00 → 2017-08-13 07:55:00 (100.0%)
+  Datei-Zeitraum: 2017-08-13 00:00:00 → 2017-08-13 23:55:00
+
+## Lücke #122: 2017-08-14 03:00:00 → 2017-08-14 08:15:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation15082017_2355.dat
+  Überlappung: 2017-08-14 03:00:00 → 2017-08-14 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-08-14 00:00:00 → 2017-08-15 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation15082017_2355.dat
+  Überlappung: 2017-08-14 03:00:00 → 2017-08-14 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-08-14 00:00:00 → 2017-08-15 23:55:00
+
+## Lücke #123: 2017-08-14 20:35:00 → 2017-08-15 08:25:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation15082017_2355.dat
+  Überlappung: 2017-08-14 20:35:00 → 2017-08-15 08:25:00 (100.0%)
+  Datei-Zeitraum: 2017-08-14 00:00:00 → 2017-08-15 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation15082017_2355.dat
+  Überlappung: 2017-08-14 20:35:00 → 2017-08-15 08:25:00 (100.0%)
+  Datei-Zeitraum: 2017-08-14 00:00:00 → 2017-08-15 23:55:00
+
+## Lücke #124: 2017-08-16 03:05:00 → 2017-08-16 08:05:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation16082017_2355.dat
+  Überlappung: 2017-08-16 03:05:00 → 2017-08-16 08:05:00 (100.0%)
+  Datei-Zeitraum: 2017-08-16 00:00:00 → 2017-08-16 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation16082017_2355.dat
+  Überlappung: 2017-08-16 03:05:00 → 2017-08-16 08:05:00 (100.0%)
+  Datei-Zeitraum: 2017-08-16 00:00:00 → 2017-08-16 23:55:00
+
+## Lücke #125: 2017-08-18 05:30:00 → 2017-08-18 08:35:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation18082017_2355.dat
+  Überlappung: 2017-08-18 05:30:00 → 2017-08-18 08:35:00 (100.0%)
+  Datei-Zeitraum: 2017-08-18 00:00:00 → 2017-08-18 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation18082017_2355.dat
+  Überlappung: 2017-08-18 05:30:00 → 2017-08-18 08:35:00 (100.0%)
+  Datei-Zeitraum: 2017-08-18 00:00:00 → 2017-08-18 23:55:00
+
+## Lücke #126: 2017-08-19 01:30:00 → 2017-08-19 07:55:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation19082017_2355.dat
+  Überlappung: 2017-08-19 01:30:00 → 2017-08-19 07:55:00 (100.0%)
+  Datei-Zeitraum: 2017-08-19 00:00:00 → 2017-08-19 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation19082017_2355.dat
+  Überlappung: 2017-08-19 01:30:00 → 2017-08-19 07:55:00 (100.0%)
+  Datei-Zeitraum: 2017-08-19 00:00:00 → 2017-08-19 23:55:00
+
+## Lücke #127: 2017-08-20 04:10:00 → 2017-08-20 08:15:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation20082017_2355.dat
+  Überlappung: 2017-08-20 04:10:00 → 2017-08-20 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-08-20 00:00:00 → 2017-08-20 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation20082017_2355.dat
+  Überlappung: 2017-08-20 04:10:00 → 2017-08-20 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-08-20 00:00:00 → 2017-08-20 23:55:00
+
+## Lücke #128: 2017-08-21 04:00:00 → 2017-08-21 09:25:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation22082017_2355.dat
+  Überlappung: 2017-08-21 04:00:00 → 2017-08-21 09:25:00 (100.0%)
+  Datei-Zeitraum: 2017-08-21 00:00:00 → 2017-08-22 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation22082017_2355.dat
+  Überlappung: 2017-08-21 04:00:00 → 2017-08-21 09:25:00 (100.0%)
+  Datei-Zeitraum: 2017-08-21 00:00:00 → 2017-08-22 23:55:00
+
+## Lücke #129: 2017-08-21 19:20:00 → 2017-08-22 08:20:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation22082017_2355.dat
+  Überlappung: 2017-08-21 19:20:00 → 2017-08-22 08:20:00 (100.0%)
+  Datei-Zeitraum: 2017-08-21 00:00:00 → 2017-08-22 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation22082017_2355.dat
+  Überlappung: 2017-08-21 19:20:00 → 2017-08-22 08:20:00 (100.0%)
+  Datei-Zeitraum: 2017-08-21 00:00:00 → 2017-08-22 23:55:00
+
+## Lücke #130: 2017-08-23 02:45:00 → 2017-08-23 08:15:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation23082017_2355.dat
+  Überlappung: 2017-08-23 02:45:00 → 2017-08-23 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-08-23 00:00:00 → 2017-08-23 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation23082017_2355.dat
+  Überlappung: 2017-08-23 02:45:00 → 2017-08-23 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-08-23 00:00:00 → 2017-08-23 23:55:00
+
+## Lücke #131: 2017-08-24 04:30:00 → 2017-08-24 08:20:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation24082017_2355.dat
+  Überlappung: 2017-08-24 04:30:00 → 2017-08-24 08:20:00 (100.0%)
+  Datei-Zeitraum: 2017-08-24 00:00:00 → 2017-08-24 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation24082017_2355.dat
+  Überlappung: 2017-08-24 04:30:00 → 2017-08-24 08:20:00 (100.0%)
+  Datei-Zeitraum: 2017-08-24 00:00:00 → 2017-08-24 23:55:00
+
+## Lücke #132: 2017-08-25 01:45:00 → 2017-08-25 08:15:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation25082017_2355.dat
+  Überlappung: 2017-08-25 01:45:00 → 2017-08-25 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-08-25 00:00:00 → 2017-08-25 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation25082017_2355.dat
+  Überlappung: 2017-08-25 01:45:00 → 2017-08-25 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-08-25 00:00:00 → 2017-08-25 23:55:00
+
+## Lücke #133: 2017-08-26 04:55:00 → 2017-08-26 11:30:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation27082017_2355.dat
+  Überlappung: 2017-08-26 04:55:00 → 2017-08-26 11:30:00 (100.0%)
+  Datei-Zeitraum: 2017-08-26 00:00:00 → 2017-08-27 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation27082017_2355.dat
+  Überlappung: 2017-08-26 04:55:00 → 2017-08-26 11:30:00 (100.0%)
+  Datei-Zeitraum: 2017-08-26 00:00:00 → 2017-08-27 23:55:00
+
+## Lücke #134: 2017-08-26 20:25:00 → 2017-08-27 08:15:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation27082017_2355.dat
+  Überlappung: 2017-08-26 20:25:00 → 2017-08-27 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-08-26 00:00:00 → 2017-08-27 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation27082017_2355.dat
+  Überlappung: 2017-08-26 20:25:00 → 2017-08-27 08:15:00 (100.0%)
+  Datei-Zeitraum: 2017-08-26 00:00:00 → 2017-08-27 23:55:00
+
+## Lücke #135: 2017-08-28 03:15:00 → 2017-08-28 07:45:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation28082017_2355.dat
+  Überlappung: 2017-08-28 03:15:00 → 2017-08-28 07:45:00 (100.0%)
+  Datei-Zeitraum: 2017-08-28 00:00:00 → 2017-08-28 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation28082017_2355.dat
+  Überlappung: 2017-08-28 03:15:00 → 2017-08-28 07:45:00 (100.0%)
+  Datei-Zeitraum: 2017-08-28 00:00:00 → 2017-08-28 23:55:00
+
+## Lücke #136: 2017-08-29 04:50:00 → 2017-08-29 08:10:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation29082017_2355.dat
+  Überlappung: 2017-08-29 04:50:00 → 2017-08-29 08:10:00 (100.0%)
+  Datei-Zeitraum: 2017-08-29 00:00:00 → 2017-08-29 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation29082017_2355.dat
+  Überlappung: 2017-08-29 04:50:00 → 2017-08-29 08:10:00 (100.0%)
+  Datei-Zeitraum: 2017-08-29 00:00:00 → 2017-08-29 23:55:00
+
+## Lücke #137: 2017-09-03 05:05:00 → 2017-09-03 08:05:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation07092017_2355.dat
+  Überlappung: 2017-09-03 05:05:00 → 2017-09-03 08:05:00 (100.0%)
+  Datei-Zeitraum: 2017-09-02 00:00:00 → 2017-09-04 01:00:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2017/W2_Radiation07092017_2355.dat
+  Überlappung: 2017-09-03 05:05:00 → 2017-09-03 08:05:00 (100.0%)
+  Datei-Zeitraum: 2017-09-02 00:00:00 → 2017-09-04 01:00:00
+
+## Lücke #139: 2019-03-23 11:30:00 → 2021-08-10 00:00:00
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation01_2357.dat
+  Überlappung: 2020-02-01 00:00:00 → 2020-02-01 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-01 00:00:00 → 2020-02-01 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation02_2357.dat
+  Überlappung: 2020-02-02 00:00:00 → 2020-02-02 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-02 00:00:00 → 2020-02-02 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation03_2357.dat
+  Überlappung: 2020-02-03 00:00:00 → 2020-02-03 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-03 00:00:00 → 2020-02-03 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation04_2357.dat
+  Überlappung: 2020-02-04 00:00:00 → 2020-02-04 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-04 00:00:00 → 2020-02-04 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation05_2357.dat
+  Überlappung: 2020-02-05 00:00:00 → 2020-02-05 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-05 00:00:00 → 2020-02-05 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation06_2357.dat
+  Überlappung: 2020-02-06 00:00:00 → 2020-02-06 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-06 00:00:00 → 2020-02-06 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation07_2357.dat
+  Überlappung: 2020-02-07 00:00:00 → 2020-02-07 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-07 00:00:00 → 2020-02-07 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation08_2357.dat
+  Überlappung: 2020-02-08 00:00:00 → 2020-02-08 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-08 00:00:00 → 2020-02-08 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation09_2357.dat
+  Überlappung: 2020-02-09 00:00:00 → 2020-02-09 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-09 00:00:00 → 2020-02-09 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation10_2357.dat
+  Überlappung: 2020-02-10 00:00:00 → 2020-02-10 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-10 00:00:00 → 2020-02-10 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation11_2357.dat
+  Überlappung: 2020-02-11 00:00:00 → 2020-02-11 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-11 00:00:00 → 2020-02-11 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation12_2357.dat
+  Überlappung: 2020-02-12 00:00:00 → 2020-02-12 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-12 00:00:00 → 2020-02-12 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation13_2357.dat
+  Überlappung: 2020-02-13 00:00:00 → 2020-02-13 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-13 00:00:00 → 2020-02-13 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation14_2357.dat
+  Überlappung: 2020-02-14 00:00:00 → 2020-02-14 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-14 00:00:00 → 2020-02-14 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation15_2357.dat
+  Überlappung: 2020-02-15 00:00:00 → 2020-02-15 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-15 00:00:00 → 2020-02-15 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation16_2357.dat
+  Überlappung: 2020-02-16 00:00:00 → 2020-02-16 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-16 00:00:00 → 2020-02-16 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation17_2357.dat
+  Überlappung: 2020-01-17 00:00:00 → 2020-01-17 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-17 00:00:00 → 2020-01-17 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation18_2357.dat
+  Überlappung: 2020-01-18 00:00:00 → 2020-01-18 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-18 00:00:00 → 2020-01-18 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation19_2357.dat
+  Überlappung: 2020-01-19 00:00:00 → 2020-01-19 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-19 00:00:00 → 2020-01-19 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation20_2357.dat
+  Überlappung: 2020-01-20 00:00:00 → 2020-01-20 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-20 00:00:00 → 2020-01-20 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation21_2357.dat
+  Überlappung: 2020-01-21 00:00:00 → 2020-01-21 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-21 00:00:00 → 2020-01-21 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation22_2357.dat
+  Überlappung: 2020-01-22 00:00:00 → 2020-01-22 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-22 00:00:00 → 2020-01-22 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation23_2357.dat
+  Überlappung: 2020-01-23 00:00:00 → 2020-01-23 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-23 00:00:00 → 2020-01-23 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation24_2357.dat
+  Überlappung: 2020-01-24 00:00:00 → 2020-01-24 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-24 00:00:00 → 2020-01-24 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation25_2357.dat
+  Überlappung: 2020-01-25 00:00:00 → 2020-01-25 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-25 00:00:00 → 2020-01-25 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation26_2357.dat
+  Überlappung: 2020-01-26 00:00:00 → 2020-01-26 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-26 00:00:00 → 2020-01-26 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation27_2357.dat
+  Überlappung: 2020-01-27 00:00:00 → 2020-01-27 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-27 00:00:00 → 2020-01-27 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation28_2357.dat
+  Überlappung: 2020-01-28 00:00:00 → 2020-01-28 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-28 00:00:00 → 2020-01-28 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation29_2357.dat
+  Überlappung: 2020-01-29 00:00:00 → 2020-01-29 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-29 00:00:00 → 2020-01-29 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation30_2357.dat
+  Überlappung: 2020-01-30 00:00:00 → 2020-01-30 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-30 00:00:00 → 2020-01-30 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/All data/W2_Radiation31_2357.dat
+  Überlappung: 2020-01-31 00:00:00 → 2020-01-31 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-31 00:00:00 → 2020-01-31 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation01_2357.dat
+  Überlappung: 2021-07-01 00:00:00 → 2021-07-01 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-07-01 00:00:00 → 2021-07-01 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation02_2357.dat
+  Überlappung: 2021-07-02 00:00:00 → 2021-07-02 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-07-02 00:00:00 → 2021-07-02 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation03_2357.dat
+  Überlappung: 2021-07-03 00:00:00 → 2021-07-03 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-07-03 00:00:00 → 2021-07-03 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation04_2357.dat
+  Überlappung: 2021-07-04 00:00:00 → 2021-07-04 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-07-04 00:00:00 → 2021-07-04 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation05_2357.dat
+  Überlappung: 2021-06-05 00:00:00 → 2021-06-05 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-05 00:00:00 → 2021-06-05 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation06_2357.dat
+  Überlappung: 2021-06-06 00:00:00 → 2021-06-06 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-06 00:00:00 → 2021-06-06 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation07_2357.dat
+  Überlappung: 2021-06-07 00:00:00 → 2021-06-07 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-07 00:00:00 → 2021-06-07 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation08_2357.dat
+  Überlappung: 2021-06-08 00:00:00 → 2021-06-08 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-08 00:00:00 → 2021-06-08 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation09_2357.dat
+  Überlappung: 2021-06-09 00:00:00 → 2021-06-09 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-09 00:00:00 → 2021-06-09 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation10_2357.dat
+  Überlappung: 2021-06-10 00:00:00 → 2021-06-10 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-10 00:00:00 → 2021-06-10 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation11_2357.dat
+  Überlappung: 2021-06-11 00:00:00 → 2021-06-11 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-11 00:00:00 → 2021-06-11 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation12_2357.dat
+  Überlappung: 2021-06-12 00:00:00 → 2021-06-12 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-12 00:00:00 → 2021-06-12 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation13_2357.dat
+  Überlappung: 2021-06-13 00:00:00 → 2021-06-13 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-13 00:00:00 → 2021-06-13 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation14_2357.dat
+  Überlappung: 2021-06-14 00:00:00 → 2021-06-14 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-14 00:00:00 → 2021-06-14 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation15_2357.dat
+  Überlappung: 2021-06-15 00:00:00 → 2021-06-15 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-15 00:00:00 → 2021-06-15 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation16_2357.dat
+  Überlappung: 2021-06-16 00:00:00 → 2021-06-16 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-16 00:00:00 → 2021-06-16 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation17_2357.dat
+  Überlappung: 2021-06-17 00:00:00 → 2021-06-17 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-17 00:00:00 → 2021-06-17 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation18_2357.dat
+  Überlappung: 2021-06-18 00:00:00 → 2021-06-18 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-18 00:00:00 → 2021-06-18 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation19_2357.dat
+  Überlappung: 2021-06-19 00:00:00 → 2021-06-19 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-19 00:00:00 → 2021-06-19 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation20_2357.dat
+  Überlappung: 2021-06-20 00:00:00 → 2021-06-20 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-20 00:00:00 → 2021-06-20 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation21_2357.dat
+  Überlappung: 2021-06-21 00:00:00 → 2021-06-21 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-21 00:00:00 → 2021-06-21 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation22_2357.dat
+  Überlappung: 2021-06-22 00:00:00 → 2021-06-22 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-22 00:00:00 → 2021-06-22 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation23_2357.dat
+  Überlappung: 2021-06-23 00:00:00 → 2021-06-23 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-23 00:00:00 → 2021-06-23 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation24_2357.dat
+  Überlappung: 2021-06-24 00:00:00 → 2021-06-24 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-24 00:00:00 → 2021-06-24 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation25_2357.dat
+  Überlappung: 2021-06-25 00:00:00 → 2021-06-25 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-25 00:00:00 → 2021-06-25 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation26_2357.dat
+  Überlappung: 2021-06-26 00:00:00 → 2021-06-26 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-26 00:00:00 → 2021-06-26 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation27_2357.dat
+  Überlappung: 2021-06-27 00:00:00 → 2021-06-27 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-27 00:00:00 → 2021-06-27 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation28_2357.dat
+  Überlappung: 2021-06-28 00:00:00 → 2021-06-28 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-28 00:00:00 → 2021-06-28 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation29_2357.dat
+  Überlappung: 2021-06-29 00:00:00 → 2021-06-29 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-29 00:00:00 → 2021-06-29 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation30_2357.dat
+  Überlappung: 2021-06-30 00:00:00 → 2021-06-30 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-06-30 00:00:00 → 2021-06-30 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Means/W2_Radiation31_2357.dat
+  Überlappung: 2021-05-31 00:00:00 → 2021-05-31 23:55:00 (0.1%)
+  Datei-Zeitraum: 2021-05-31 00:00:00 → 2021-05-31 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation01_2357.dat
+  Überlappung: 2020-02-01 00:00:00 → 2020-02-01 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-01 00:00:00 → 2020-02-01 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation02_2357.dat
+  Überlappung: 2020-02-02 00:00:00 → 2020-02-02 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-02 00:00:00 → 2020-02-02 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation03_2357.dat
+  Überlappung: 2020-02-03 00:00:00 → 2020-02-03 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-03 00:00:00 → 2020-02-03 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation04_2357.dat
+  Überlappung: 2020-02-04 00:00:00 → 2020-02-04 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-04 00:00:00 → 2020-02-04 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation05_2357.dat
+  Überlappung: 2020-02-05 00:00:00 → 2020-02-05 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-05 00:00:00 → 2020-02-05 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation06_2357.dat
+  Überlappung: 2020-02-06 00:00:00 → 2020-02-06 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-06 00:00:00 → 2020-02-06 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation07_2357.dat
+  Überlappung: 2020-02-07 00:00:00 → 2020-02-07 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-07 00:00:00 → 2020-02-07 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation08_2357.dat
+  Überlappung: 2020-02-08 00:00:00 → 2020-02-08 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-08 00:00:00 → 2020-02-08 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation09_2357.dat
+  Überlappung: 2020-02-09 00:00:00 → 2020-02-09 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-09 00:00:00 → 2020-02-09 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation10_2357.dat
+  Überlappung: 2020-02-10 00:00:00 → 2020-02-10 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-10 00:00:00 → 2020-02-10 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation11_2357.dat
+  Überlappung: 2020-02-11 00:00:00 → 2020-02-11 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-11 00:00:00 → 2020-02-11 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation12_2357.dat
+  Überlappung: 2020-02-12 00:00:00 → 2020-02-12 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-12 00:00:00 → 2020-02-12 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation13_2357.dat
+  Überlappung: 2020-02-13 00:00:00 → 2020-02-13 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-13 00:00:00 → 2020-02-13 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation14_2357.dat
+  Überlappung: 2020-02-14 00:00:00 → 2020-02-14 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-14 00:00:00 → 2020-02-14 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation15_2357.dat
+  Überlappung: 2020-02-15 00:00:00 → 2020-02-15 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-15 00:00:00 → 2020-02-15 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation16_2357.dat
+  Überlappung: 2020-02-16 00:00:00 → 2020-02-16 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-02-16 00:00:00 → 2020-02-16 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation17_2357.dat
+  Überlappung: 2020-01-17 00:00:00 → 2020-01-17 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-17 00:00:00 → 2020-01-17 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation18_2357.dat
+  Überlappung: 2020-01-18 00:00:00 → 2020-01-18 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-18 00:00:00 → 2020-01-18 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation19_2357.dat
+  Überlappung: 2020-01-19 00:00:00 → 2020-01-19 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-19 00:00:00 → 2020-01-19 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation20_2357.dat
+  Überlappung: 2020-01-20 00:00:00 → 2020-01-20 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-20 00:00:00 → 2020-01-20 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation21_2357.dat
+  Überlappung: 2020-01-21 00:00:00 → 2020-01-21 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-21 00:00:00 → 2020-01-21 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation22_2357.dat
+  Überlappung: 2020-01-22 00:00:00 → 2020-01-22 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-22 00:00:00 → 2020-01-22 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation23_2357.dat
+  Überlappung: 2020-01-23 00:00:00 → 2020-01-23 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-23 00:00:00 → 2020-01-23 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation24_2357.dat
+  Überlappung: 2020-01-24 00:00:00 → 2020-01-24 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-24 00:00:00 → 2020-01-24 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation25_2357.dat
+  Überlappung: 2020-01-25 00:00:00 → 2020-01-25 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-25 00:00:00 → 2020-01-25 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation26_2357.dat
+  Überlappung: 2020-01-26 00:00:00 → 2020-01-26 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-26 00:00:00 → 2020-01-26 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation27_2357.dat
+  Überlappung: 2020-01-27 00:00:00 → 2020-01-27 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-27 00:00:00 → 2020-01-27 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation28_2357.dat
+  Überlappung: 2020-01-28 00:00:00 → 2020-01-28 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-28 00:00:00 → 2020-01-28 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation29_2357.dat
+  Überlappung: 2020-01-29 00:00:00 → 2020-01-29 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-29 00:00:00 → 2020-01-29 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation30_2357.dat
+  Überlappung: 2020-01-30 00:00:00 → 2020-01-30 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-30 00:00:00 → 2020-01-30 23:55:00
+
+/Volumes/DATA_GHANA/ghana/archive/bolga/WASCAL 2 Kayoro data/Means/Radiation/Kayoro_Rad_2020/W2_Radiation31_2357.dat
+  Überlappung: 2020-01-31 00:00:00 → 2020-01-31 23:55:00 (0.1%)
+  Datei-Zeitraum: 2020-01-31 00:00:00 → 2020-01-31 23:55:00
+

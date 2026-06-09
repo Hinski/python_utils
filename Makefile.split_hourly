@@ -1,0 +1,14 @@
+# Build für split_ts_data_to_hourly (C-Version)
+# Nutzung: make -f Makefile.split_hourly
+
+CC = cc
+CFLAGS = -O2 -Wall -Wextra
+TARGET = split_ts_data_to_hourly
+
+$(TARGET): split_ts_data_to_hourly.c
+	$(CC) $(CFLAGS) -o $(TARGET) split_ts_data_to_hourly.c
+
+clean:
+	rm -f $(TARGET)
+
+.PHONY: clean

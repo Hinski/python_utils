@@ -1,0 +1,202 @@
+# Qualitätsfilter-Konfiguration für {station}_all_variables_30min.csv
+#
+# physical_limits: Werte außerhalb [min, max] werden als ungültig markiert.
+# Units: W/m² (fluxes), °C (temp), m³/m³ (VWC), Pa (pressure), % (RH), m/s (wind), µmol/m²/s (CO2)
+#
+# Verwendung: Pro Station werden global.physical_limits mit stations.<station>.physical_limits
+# zusammengeführt (Station überschreibt Global). Fehlt physical_limits bei einer Station,
+# gelten nur die globalen Limits.
+
+# Globale Einstellungen (für alle Stationen)
+global:
+  invalid_codes: [7999, -9999, -99999, "NAN"]
+
+  # Physikalische Limits für alle möglichen Variablen (zentral definiert).
+  # Pro Station: Nur Abweichungen unter stations.<station>.physical_limits angeben.
+  physical_limits:
+    # Energy balance (W/m²)
+    Rn: {min: -100, max: 1200}
+    SW_in: {min: 0, max: 1500}
+    SW_out: {min: 0, max: 400}
+    LW_in: {min: 100, max: 600}
+    LW_out: {min: 100, max: 800}
+    LE: {min: -200, max: 800}
+    H: {min: -400, max: 600}
+    CO2: {min: -50, max: 50}
+    G: {min: -200, max: 400}
+    G_raw: {min: -200, max: 400}
+    G_raw_East: {min: -200, max: 400}
+    G_raw_Middle: {min: -200, max: 400}
+    G_raw_West: {min: -200, max: 400}
+    G_1: {min: -400, max: 400}
+    G_2: {min: -400, max: 400}
+    G_3: {min: -400, max: 400}
+    G_plate_1_1_1: {min: -400, max: 400}
+    G_plate_2_1_1: {min: -400, max: 400}
+    G_plate_3_1_1: {min: -400, max: 400}
+    Gs: {min: -500, max: 500}
+    Delta: {min: -500, max: 500}
+    Residual: {min: -600, max: 600}
+    # Soil
+    VWC: {min: 0, max: 0.7}
+    VWC_1: {min: 0, max: 0.7}
+    VWC_2: {min: 0, max: 0.7}
+    VWC_3: {min: 0, max: 0.7}
+    SWC_1: {min: 0, max: 100}
+    SWC_2: {min: 0, max: 100}
+    SWC_3: {min: 0, max: 100}
+    Ts: {min: -10, max: 60}
+    Ts_1: {min: -10, max: 60}
+    Ts_2: {min: -10, max: 60}
+    Ts_3: {min: -10, max: 60}
+    Tsoil_f: {min: -10, max: 60}
+    # Meteo
+    Tair: {min: -20, max: 50}
+    Pa: {min: 80000, max: 110000}
+    RH: {min: 0, max: 100}
+    # Wind
+    WS_1_1_1: {min: 0, max: 50}
+    WS_ms_Avg: {min: 0, max: 50}
+    WS_Avg: {min: 0, max: 50}
+    WD_1_1_1: {min: 0, max: 360}
+    WD_Avg: {min: 0, max: 360}
+    # WXT
+    WXT_Wsmin_Min: {min: 0, max: 50}
+    WXT_Wsavg_Avg: {min: 0, max: 50}
+    WXT_Wsmax_Max: {min: 0, max: 50}
+    WXT_Wdmin_Min: {min: 0, max: 360}
+    WXT_Wdavg: {min: 0, max: 360}
+    WXT_Wdmax_Max: {min: 0, max: 360}
+    WXT_airtemp_Avg: {min: -20, max: 50}
+    WXT_relhumidity_Avg: {min: 0, max: 100}
+    WXT_airpressure_Avg: {min: 800, max: 1100}
+    WXT_Ramount_Tot: {min: 0, max: 100}
+    WXT_Rduration_Avg: {min: 0, max: 1800}
+    WXT_Rintensity_Avg: {min: 0, max: 500}
+    WXT_Hamount_Tot: {min: 0, max: 1000}
+    WXT_Hduration_Avg: {min: 0, max: 1800}
+    WXT_Hintensity_Avg: {min: 0, max: 1000}
+    # Precipitation
+    P: {min: 0, max: 300}
+    P_pl: {min: 0, max: 300}
+    P_tb: {min: 0, max: 300}
+    Precip: {min: 0, max: 300}
+    Rainfall: {min: 0, max: 300}
+    precip_intensity_rain_e: {min: 0, max: 500}
+    precip_rain_e: {min: 0, max: 300}
+    precip_total_rain_e: {min: 0, max: 300}
+    precip_cv: {min: 0, max: 300}
+    Rs_cv: {min: 0, max: 300}
+    Intensity_RT_Avg: {min: 0, max: 500}
+    Acc_NRT: {min: 0, max: 500}
+    Acc_totNRT: {min: 0, max: 500}
+    # Turbulence
+    ET: {min: 0, max: 25}
+    L: {min: -2000, max: 2000}
+    ustar: {min: 0, max: 5}
+    bowen_ratio: {min: -15, max: 15}
+    VPD: {min: 0, max: 15000}
+
+# Pro Station spezifisch (überschreibt global)
+stations:
+  Nazinga:
+    quality_flags:
+      - {flag: qc_LE, data_column: LE, max_flag: 1}
+      - {flag: qc_H, data_column: H, max_flag: 1}
+      - {flag: qc_o2_flux, data_column: CO2, max_flag: 1}
+
+    # Nur Abweichungen vom Global: G-Bereich -400..400
+    physical_limits:
+      G: {min: -400, max: 400}
+      G_raw: {min: -400, max: 400}
+      G_raw_East: {min: -400, max: 400}
+      G_raw_Middle: {min: -400, max: 400}
+      G_raw_West: {min: -400, max: 400}
+
+    exclude_periods:
+      - {start: "2013-06-15", end: "2013-06-20", reason: "Sensor maintenance"}
+      - {start: "2014-01-01", end: "2014-01-05", reason: "Bad measurements"}
+
+    soil_heat_flux:
+      periods:
+        - {start: "2012-01-01", end: "2016-12-31", sensors: ["H_Flux_sc_8_East_Avg", "H_Flux_sc_8_West_Avg"]}
+        - {start: "2017-01-01", end: null, sensors: ["H_Flux_8_Middle_Avg", "H_Flux_8_East_Avg", "H_Flux_8_West_Avg"]}
+
+  Mole:
+    quality_flags:
+      - {flag: qc_LE, data_column: LE, max_flag: 1}
+      - {flag: qc_H, data_column: H, max_flag: 1}
+      - {flag: qc_o2_flux, data_column: CO2, max_flag: 1}
+
+    # G-Bereich -200..400 (Standard, keine Overrides nötig)
+    physical_limits: {}
+
+    exclude_periods: []
+
+    soil_heat_flux:
+      periods:
+        - {start: null, end: null, sensors: ["H_Flux_8_Middle_Avg", "H_Flux_8_East_Avg", "H_Flux_8_West_Avg"]}
+
+  Kayoro:
+    quality_flags:
+      - {flag: qc_LE, data_column: LE, max_flag: 1}
+      - {flag: qc_H, data_column: H, max_flag: 1}
+      - {flag: qc_o2_flux, data_column: CO2, max_flag: 1}
+
+    # Ts 0..60 (soil_heat_flux_config ts_min/ts_max)
+    physical_limits:
+      Ts: {min: 0, max: 60}
+      Ts_1: {min: 0, max: 60}
+      Ts_2: {min: 0, max: 60}
+      Ts_3: {min: 0, max: 60}
+
+    exclude_periods: []
+
+    soil_heat_flux:
+      periods:
+        - {start: null, end: null, sensors: ["H_Flux_sc_8_Ost_Avg [W/m^2]", "H_Flux_sc_8_Mitte_Avg [W/m^2]", "H_Flux_sc_8_West_Avg [W/m^2]"]}
+
+  Sumbrungu:
+    quality_flags:
+      - {flag: qc_LE, data_column: LE, max_flag: 1}
+      - {flag: qc_H, data_column: H, max_flag: 1}
+      - {flag: qc_o2_flux, data_column: CO2, max_flag: 1}
+
+    physical_limits: {}
+
+    exclude_periods: []
+
+    soil_heat_flux:
+      periods:
+        - {start: null, end: null, sensors: ["H_Flux_sc_8_Mitte_Avg [W/m^2]", "H_Flux_sc_8_Ost_Avg [W/m^2]", "H_Flux_sc_8_West_Avg [W/m^2]"]}
+
+  Gorigo:
+    quality_flags:
+      - {flag: qc_LE, data_column: LE, max_flag: 1}
+      - {flag: qc_H, data_column: H, max_flag: 1}
+      - {flag: qc_o2_flux, data_column: CO2, max_flag: 1}
+
+    physical_limits: {}
+
+    exclude_periods: []
+
+    soil_heat_flux:
+      periods:
+        - {start: null, end: null, sensors: ["H_Flux_sc_8_East_Avg"]}
+
+  Janga:
+    quality_flags:
+      - {flag: qc_LE, data_column: LE, max_flag: 1}
+      - {flag: qc_H, data_column: H, max_flag: 1}
+      - {flag: qc_o2_flux, data_column: CO2, max_flag: 1}
+
+    # Janga: G -400..400, VWC 0..1, SWC_1 bereits in global
+    physical_limits:
+      G: {min: -400, max: 400}
+      VWC: {min: 0, max: 1.0}
+
+    exclude_periods: []
+
+    soil_heat_flux:
+      periods:
+        - {start: null, end: null, sensors: ["G_1", "G_2", "G_3"]}

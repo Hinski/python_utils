@@ -1,0 +1,59 @@
+# Konfiguration für edit_essd_data_tables.py
+# Liegt idealerweise im gleichen Verzeichnis wie die Datensätze (essd_data_tables).
+# Pro Station können mehrere Variablen mit jeweils eigenem Zeitraum definiert werden.
+
+# masks: Pro Station (oder "all" für alle) eine Liste von Einträgen mit
+#   variable: ein Variablenname
+#   start / end: Zeitraum (Datum optional mit Zeit, z.B. 2021-12-12 oder 2021-12-12 00:00:00)
+masks:
+  Nazinga:
+    - variable: PA
+      start: "2021-12-13"
+      end: "2025-01-01"
+    - variable: P
+      start: "2018-01-01"
+      end: "2025-12-31"
+  Kayoro:
+    - variable: G
+      start: "2022-01-01"
+      end: "2026-01-01"
+    - variable: P
+      start: "2018-01-01"
+      end: "2021-01-01"
+    - variable: TS_1_1_1
+      start: "2021-05-01"
+      end: "2026-01-01"
+    - variable: TS_1_2_1
+      start: "2021-04-01"
+      end: "2026-01-01"
+    - variable: TS_1_3_1
+      start: "2021-08-22"
+      end: "2026-01-01"
+    - variables: [SWC_1_2_1,SWC_1_3_1]
+
+removes:
+  - station: Sumbrungu
+    variables: [SWC_1_2_1,SWC_1_3_1]
+  - station: Gorigo
+    variables: [G,SWC_1_2_1,SWC_1_3_1]
+
+
+
+
+
+
+
+  # Gorigo:
+  #   - variable: LE
+  #     start: "2019-01-01"
+  #     end: "2019-06-30"
+  # all:   # gilt für alle Stationen
+  #   - variable: NEE
+  #     start: "2020-01-01"
+  #     end: "2020-01-15"
+
+# Optional: Variablen komplett aus dem Datensatz entfernen (Spalte löschen).
+# removes:
+#   - station: Gorigo
+#     variables: [LE_QC]
+

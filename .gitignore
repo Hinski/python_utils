@@ -1,0 +1,93 @@
+# --- OS / Editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+.installed.cfg
+*.egg
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets / local config
+.env
+.env.*
+*.pem
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+profile_default/
+
+# --- R ---
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# --- LaTeX (e.g. 02-wascal-observatory_revision.tex) ---
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+
+# --- Build artifacts ---
+split_ts_data_to_hourly
+
+# --- Generated plots & exports (regenerable; incl. dissertation figures) ---
+plots/
+ec_analysis/examples/plots/
+ec_analysis/examples/Kayoro_FluxComparison/
+
+# --- Downloaded / cached datasets ---
+ec_analysis/examples/data/
+
+# --- Ad-hoc test outputs ---
+*.tmp
+*.bak
+
+# --- Images & documentation (local / generated) ---
+*.png
+*.html
+*.md
+README
+README.*
+
+# --- Notebooks (local only; may contain secrets or large outputs) ---
+*.ipynb
+
+# --- LaTeX sources (local / dissertation) ---
+*.tex

@@ -1,0 +1,61 @@
+# Physikalische Grenzen für ESSD-30min-Tabellen (*_essd_30min.csv / *_essd_30min_clean.csv)
+# Werte außerhalb [min, max] werden durch Fehlwerte (-9999) ersetzt.
+# Diese Datei liegt idealerweise im gleichen Verzeichnis wie die Datensätze (essd_data_tables).
+# Verwendung: global.physical_limits + stations.<station>.physical_limits (Station überschreibt Global).
+
+global:
+  invalid_codes: [7999, -9999, -99999, "NAN"]
+
+  physical_limits:
+    # Energy balance (W/m²)
+    LE: {min: -200, max: 800}
+    H: {min: -400, max: 600}
+    NEE: {min: -60, max: 60}
+    G: {min: -200, max: 400}
+    SW_IN: {min: 0, max: 1500}
+    SW_OUT: {min: 0, max: 400}
+    LW_IN: {min: 200, max: 600}
+    LW_OUT: {min: 300, max: 800}
+    NETRAD: {min: -100, max: 1200}
+    # Water / precip (mm)
+    P: {min: 0, max: 300}
+    ET: {min: 0, max: 25}
+    # Meteo
+    PA: {min: 80, max: 110}   # kPa
+    RH: {min: 0, max: 100}
+    TA: {min: 0, max: 50}
+    VPD: {min: 0, max: 10000}
+    # Wind
+    WD: {min: 0, max: 360}
+    WS: {min: 0, max: 30}
+    USTAR: {min: 0, max: 5}
+    # Turbulence / stability
+    ZL: {min: -1000, max: 1000}
+    MO_LENGHT: {min: -2000, max: 2000}
+    TAU: {min: -2, max: 2}
+    # Soil (SWC %, TS °C)
+    SWC_1_1_1: {min: 0, max: 100}
+    SWC_1_2_1: {min: 0, max: 100}
+    SWC_1_3_1: {min: 0, max: 100}
+    TS_1_1_1: {min: -10, max: 60}
+    TS_1_2_1: {min: -10, max: 60}
+    TS_1_3_1: {min: -10, max: 60}
+    # QC flags (optional)
+    LE_QC: {min: 0, max: 3}
+    H_QC: {min: 0, max: 3}
+    CO2_QC: {min: 0, max: 3}
+
+# Stationsspezifische Anpassungen (überschreiben global)
+stations:
+  Nazinga:
+    physical_limits:
+      G: {min: -400, max: 400}
+  Kayoro:
+    physical_limits:
+      TS_1_1_1: {min: 0, max: 60}
+      TS_1_2_1: {min: 0, max: 60}
+      TS_1_3_1: {min: 0, max: 60}
+  Janga:
+    physical_limits:
+      G: {min: -400, max: 400}
+  # Sumbrungu, Gorigo, Mole: keine Overrides

@@ -1,0 +1,16 @@
+# EC Analysis Package Dependencies
+
+# Core data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data file formats
+pyarrow>=12.0.0  # For Parquet file support
+pyyaml>=6.0  # For quality_filters_config.yaml (plot_all_variables.py --qc)
+
+# Plotting
+matplotlib>=3.7.0
+
+# Optional: For interactive plots (if needed in future)
+# plotly>=5.14.0
+

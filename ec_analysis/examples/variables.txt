@@ -1,0 +1,35 @@
+variable,   unit,           description
+TIMESTAMP,  YYYYMMDDHHMMSS, ISO timestamp - short format
+LE ,        W m-2,          latent heat flux
+LE_QC,      adimensional,   quality flag for LE
+H,          W m-2,          sensible heat flux
+H_QC,       adimensional,   quality flag for H
+NEE,        µmolCO2 m-2 s-1,CO2 flux
+CO2_QC,     adimensional,   quality flag for CO2
+TAU,        Kg m-2 s-1,     Momentum flux
+TAU_QC,     adiemnsional,   quality flag for Momentum flux
+G,          W m-2,          soil heat flux
+SW_IN,      W m-2,          shortwave in
+SW_OUT,     W m-2,          shortwave out
+LW_IN,      W m-2,          longwave in
+LW_OUT,     W m-2,          longwave out
+NETRAD,     W m-2,          net radiation
+P,          mm,             precipitation
+ET,         mm,             evapotranspiration
+PA,         kPa,            atmospheric pressure
+RH,         %,              Relative humidity, range 0-100
+TA,         deg C,          Air temperature
+VPD,        hPa,            Vapor Pressure Deficit
+WD,         Decimal degrees,Wind direction
+WS,         m s-1,          Wind Speed
+USTAR,      m s-1,          Friction Velocity
+ZL,         adimensional,   Stability Parameter
+MO_LENGHT,  m,              Monin-Obukhov lenght
+SWC_1_1_1,    %,              Soil water content range 0-100 at 3cm depth
+SWC_1_2_1,   %,              Soil water content range 0-100 at 10cm depth
+SWC_1_3_1,   %,              Soil water content range 0-100 at 35cm depth
+TS_1_1_1,     deg C,          Soil temperature at 3cm depth
+TS_1_2_1,    deg C,          Soil temperature at 10cm depth
+TS_1_3_1,    deg C,          Soil temperature at 35cm depth
+
+
